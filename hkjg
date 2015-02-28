@@ -1,0 +1,2191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccountSettings" xml:space="preserve">
+    <value>Nastavení účtu</value>
+  </data>
+  <data name="Company" xml:space="preserve">
+    <value>Společnost</value>
+  </data>
+  <data name="DateOfPurchase" xml:space="preserve">
+    <value>Datum nákupu</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Popis</value>
+  </data>
+  <data name="Help" xml:space="preserve">
+    <value>Nápověda</value>
+  </data>
+  <data name="groupwidget_bestSellerApps" xml:space="preserve">
+    <value>Nejoblíbenější aplikace</value>
+  </data>
+  <data name="HomeFeaturedProducts" xml:space="preserve">
+    <value>Speciální aplikace</value>
+  </data>
+  <data name="HomeSearchHint" xml:space="preserve">
+    <value>Hledat na webu Exchange Apps</value>
+  </data>
+  <data name="MyDownloads" xml:space="preserve">
+    <value>Moje soubory ke stažení</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Název</value>
+  </data>
+  <data name="ProductCompany" xml:space="preserve">
+    <value>Společnost:</value>
+  </data>
+  <data name="ProductCompatibleWith" xml:space="preserve">
+    <value>Kompatibilita:</value>
+  </data>
+  <data name="ProductCurrency" xml:space="preserve">
+    <value>USD</value>
+  </data>
+  <data name="ProductCustomerSupport" xml:space="preserve">
+    <value>Podpora:</value>
+  </data>
+  <data name="ProductDownloadDetails" xml:space="preserve">
+    <value>Podrobnosti o stahování</value>
+  </data>
+  <data name="ProductDownloadSize" xml:space="preserve">
+    <value>Velikost souboru:</value>
+  </data>
+  <data name="ProductExperienceLevel" xml:space="preserve">
+    <value>Očekávaná úroveň:</value>
+  </data>
+  <data name="ProductFree" xml:space="preserve">
+    <value>Zdarma</value>
+  </data>
+  <data name="ProductLanguage" xml:space="preserve">
+    <value>Jazyk:</value>
+  </data>
+  <data name="ProductLogInToComments" xml:space="preserve">
+    <value>Přihlásit se a odeslat komentáře</value>
+  </data>
+  <data name="ProductReleaseDate" xml:space="preserve">
+    <value>Datum vydání:</value>
+  </data>
+  <data name="ProductReview" xml:space="preserve">
+    <value>hodnocení</value>
+  </data>
+  <data name="ProductReviews" xml:space="preserve">
+    <value>hodnocení</value>
+  </data>
+  <data name="ProductScreenshots" xml:space="preserve">
+    <value>Náhled obrazovky</value>
+  </data>
+  <data name="Publisher" xml:space="preserve">
+    <value>Vydavatel</value>
+  </data>
+  <data name="PublishYourProductNow" xml:space="preserve">
+    <value>Publikovat nyní produkt ve službě Autodesk Exchange Apps</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Zobrazení {0}–{1} z {2} výsledků</value>
+  </data>
+  <data name="SearchResultsForOnePage" xml:space="preserve">
+    <value>Počet zobrazených výsledků: {0}</value>
+  </data>
+  <data name="SearchResultsForOneItem" xml:space="preserve">
+    <value>Počet zobrazených výsledků: 1</value>
+  </data>
+  <data name="SearchResultForNoResult" xml:space="preserve">
+    <value>Nebyly nalezeny žádné výsledky.</value>
+  </data>
+  <data name="SearchTags" xml:space="preserve">
+    <value>Značky:</value>
+  </data>
+  <data name="SignIn" xml:space="preserve">
+    <value>Přihlásit</value>
+  </data>
+  <data name="SignOut" xml:space="preserve">
+    <value>Odhlásit</value>
+  </data>
+  <data name="SignUpText" xml:space="preserve">
+    <value>Registrujte se nyní a publikujte své produkty pro miliony uživatelů produktů Autodesk.</value>
+  </data>
+  <data name="SignUpTitle" xml:space="preserve">
+    <value>Vývojáři používající službu Exchange Apps!</value>
+  </data>
+  <data name="NoProductsPurchased" xml:space="preserve">
+    <value>Nebyly zakoupeny žádné produkty.</value>
+  </data>
+  <data name="DownloadNow" xml:space="preserve">
+    <value>Stáhnout nyní</value>
+  </data>
+  <data name="Purchased" xml:space="preserve">
+    <value>Zakoupeno</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Stav</value>
+  </data>
+  <data name="StoreName" xml:space="preserve">
+    <value>Obchod</value>
+  </data>
+  <data name="UpdateAvailable" xml:space="preserve">
+    <value>Je k dispozici aktualizace.</value>
+  </data>
+  <data name="UpToDate" xml:space="preserve">
+    <value>Aktuální</value>
+  </data>
+  <data name="About" xml:space="preserve">
+    <value>O aplikaci</value>
+  </data>
+  <data name="Copyright" xml:space="preserve">
+    <value>© Copyright 2011-2014 Autodesk, Inc. All rights reserved.</value>
+  </data>
+  <data name="ExchangeAppsTitle" xml:space="preserve">
+    <value>Autodesk Exchange</value>
+  </data>
+  <data name="ExchangeAppsTitleAlt" xml:space="preserve">
+    <value>Autodesk Exchange Apps</value>
+  </data>
+  <data name="Legal" xml:space="preserve">
+    <value>Právní upozornění a ochranné známky</value>
+  </data>
+  <data name="PrivacyPolicy" xml:space="preserve">
+    <value>Zásady ochrany osobních údajů</value>
+  </data>
+  <data name="AppDescription" xml:space="preserve">
+    <value>Popis aplikace</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>Název aplikace</value>
+  </data>
+  <data name="AppShortDesc" xml:space="preserve">
+    <value>Stručný popis aplikace</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Storno</value>
+  </data>
+  <data name="CompanyName" xml:space="preserve">
+    <value>Název společnosti</value>
+  </data>
+  <data name="CompanyURL" xml:space="preserve">
+    <value>Webové stránky společnosti</value>
+  </data>
+  <data name="Continue" xml:space="preserve">
+    <value>Pokračovat</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>Zdarma</value>
+  </data>
+  <data name="PayPalAPIPassword" xml:space="preserve">
+    <value>Heslo API PayPal</value>
+  </data>
+  <data name="PayPalAPISignature" xml:space="preserve">
+    <value>Podpis API PayPal</value>
+  </data>
+  <data name="PayPalAPIUsername" xml:space="preserve">
+    <value>Uživatelské jméno API PayPal</value>
+  </data>
+  <data name="PaypalEmail" xml:space="preserve">
+    <value>E-mail pro platby prostřednictvím PayPal</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>Cena</value>
+  </data>
+  <data name="SaveDraft" xml:space="preserve">
+    <value>Uložit jako koncept</value>
+  </data>
+  <data name="SupportEmail" xml:space="preserve">
+    <value>Kontakt na podporu</value>
+  </data>
+  <data name="Trial" xml:space="preserve">
+    <value>Zkušební</value>
+  </data>
+  <data name="VersionDescription" xml:space="preserve">
+    <value>Popis verze</value>
+  </data>
+  <data name="VersionInfo" xml:space="preserve">
+    <value>Informace o verzi</value>
+  </data>
+  <data name="VersionNumber" xml:space="preserve">
+    <value>Číslo verze</value>
+  </data>
+  <data name="AppDescriptionExplanation" xml:space="preserve">
+    <value>Popis, který se má zobrazit u této položky na stránce produktu (4000 znaků).</value>
+  </data>
+  <data name="FillFollowingInfoInEng" xml:space="preserve">
+    <value>Vyplňte následující informace v češtině.</value>
+  </data>
+  <data name="AppNameExplanation" xml:space="preserve">
+    <value>Název, který se má zobrazit na stránce produktu (50 znaků).</value>
+  </data>
+  <data name="AppShortDescExplanation" xml:space="preserve">
+    <value>Popis, který se má zobrazit pod názvem (200 znaků).</value>
+  </data>
+  <data name="BoutiqueAuthorBy" xml:space="preserve">
+    <value>Autor</value>
+  </data>
+  <data name="BoutiqueViewDetails" xml:space="preserve">
+    <value>Zobrazit detaily</value>
+  </data>
+  <data name="CompanyNameExplanation" xml:space="preserve">
+    <value>Název společnosti, který se má zobrazit na stránce produktu.</value>
+  </data>
+  <data name="CompanyURLExplanation" xml:space="preserve">
+    <value>Adresa URL společnosti, která se má zobrazit na stránce produktu.</value>
+  </data>
+  <data name="PayPalAPIPasswordExplanation" xml:space="preserve">
+    <value>Heslo pro rozhraní API služby PayPal</value>
+  </data>
+  <data name="PayPalAPISignatureExplanation" xml:space="preserve">
+    <value>Podpis pro rozhraní API</value>
+  </data>
+  <data name="PayPalAPIUsernameExplanation" xml:space="preserve">
+    <value>Uživatelské jméno pro rozhraní API služby PayPal</value>
+  </data>
+  <data name="PayPalEmailExplanation" xml:space="preserve">
+    <value>E-mailová adresa účtu PayPal, který se bude používat pro prodeje produktu.</value>
+  </data>
+  <data name="PriceExplanation" xml:space="preserve">
+    <value>Cena produktu, která se má zobrazit na stránce produktu.</value>
+  </data>
+  <data name="SubmitAppBasicInfo" xml:space="preserve">
+    <value>Řekněte nám o vaší aplikaci.</value>
+  </data>
+  <data name="SubmitCompatibleApplications" xml:space="preserve">
+    <value>Kompatibilita</value>
+  </data>
+  <data name="SubmitAppCancel" xml:space="preserve">
+    <value>Storno</value>
+  </data>
+  <data name="SubmitAppContinue" xml:space="preserve">
+    <value>Pokračovat</value>
+  </data>
+  <data name="SubmitAppFileUploading" xml:space="preserve">
+    <value>Odesílání souborů</value>
+  </data>
+  <data name="SubmitAppInformation" xml:space="preserve">
+    <value>Informace o aplikaci</value>
+  </data>
+  <data name="SubmitAppSave" xml:space="preserve">
+    <value>Uložit jako koncept</value>
+  </data>
+  <data name="SubmitAppSummary" xml:space="preserve">
+    <value>Souhrnné informace</value>
+  </data>
+  <data name="SupportEmailExplanation" xml:space="preserve">
+    <value>E-mailová adresa nebo web, kde mohou uživatelé získat podporu.</value>
+  </data>
+  <data name="VersionInfoExplanation" xml:space="preserve">
+    <value>Informace o změnách v jednotlivých verzích produktu. Nejnovější změny se uvádějí na začátku.</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Přidat</value>
+  </data>
+  <data name="SupportedLanguagesTitle" xml:space="preserve">
+    <value>Seznam podporovaných jazyků</value>
+  </data>
+  <data name="SubmitAppBack" xml:space="preserve">
+    <value>Zpět</value>
+  </data>
+  <data name="SubmitAppSubmit" xml:space="preserve">
+    <value>Odeslat</value>
+  </data>
+  <data name="AddNewVersion" xml:space="preserve">
+    <value>Přidat novou verzi</value>
+  </data>
+  <data name="SubmitAdditionalInfo" xml:space="preserve">
+    <value>Další informace</value>
+  </data>
+  <data name="SubmitAdditionalInfoExplanation" xml:space="preserve">
+    <value>Pole určené pro jakékoli další informace včetně odkazů na podpůrné soubory. Uveďte sem také doplňující specifikace. (2000 znaků, minimální formátování HTML)</value>
+  </data>
+  <data name="SubmitAddNativeLanguage" xml:space="preserve">
+    <value>Přidat mateřský jazyk</value>
+  </data>
+  <data name="SubmitAppCapabilittyExplanation" xml:space="preserve">
+    <value>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</value>
+  </data>
+  <data name="SubmitAppFile" xml:space="preserve">
+    <value>Soubor aplikace</value>
+  </data>
+  <data name="SubmitAppFileExplanation" xml:space="preserve">
+    <value>Maximální velikost souboru: 600 MB
+Povolené přípony: {0}
+Hodnocení a balení produktu usnadníte, pokud do archivu ve formátu ZIP zahrnete aplikační soubory a soubor nápovědy (TXT, DOC, HTML nebo PDF).</value>
+  </data>
+  <data name="SubmitAppIndustries" xml:space="preserve">
+    <value>Obor (kategorie), pro který bude produkt užitečný.</value>
+  </data>
+  <data name="SubmitAppIndustriesExplanation" xml:space="preserve">
+    <value>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</value>
+  </data>
+  <data name="SubmitAppLogo" xml:space="preserve">
+    <value>Logo aplikace</value>
+  </data>
+  <data name="SubmitAppLogoExplanation" xml:space="preserve">
+    <value>Maximální velikost souboru: 20 MB
+Povolené přípony: PNG, GIF, JPG, JPEG
+Obrázky větší než 80 x 80 pixelů budou zmenšeny.</value>
+  </data>
+  <data name="SubmitAppOthers" xml:space="preserve">
+    <value>Jiné</value>
+  </data>
+  <data name="SubmitAppOthersExplanation" xml:space="preserve">
+    <value>Doporučte kategorie, které nejsou v seznamu uvedeny, společnost Autodesk je posoudí. Děkujeme.</value>
+  </data>
+  <data name="SubmitAppScreenshot" xml:space="preserve">
+    <value>Snímek obrazovky aplikace</value>
+  </data>
+  <data name="SubmitAppScreenshotExplanation" xml:space="preserve">
+    <value>Maximální velikost souboru: 20 MB
+Povolené přípony: PNG, GIF, JPG, JPEG
+Obrázky větší než 205 x 120 pixelů budou zmenšeny.</value>
+  </data>
+  <data name="SubmitAuthorInfo" xml:space="preserve">
+    <value>Informace o autorovi/společnosti</value>
+  </data>
+  <data name="SubmitAuthorInfoExplanation" xml:space="preserve">
+    <value>Informace, které by měli uživatelé vědět o společnosti nebo osobách, jež vytvořily tento produkt (1000 znaků).</value>
+  </data>
+  <data name="SubmitCommand" xml:space="preserve">
+    <value>Příkaz</value>
+  </data>
+  <data name="SubmitCommandDescExplanation" xml:space="preserve">
+    <value>Popis příkazu, možností a výsledku (1000 znaků)</value>
+  </data>
+  <data name="SubmitCommandDescription" xml:space="preserve">
+    <value>Popis příkazu</value>
+  </data>
+  <data name="SubmitCommandExplanation" xml:space="preserve">
+    <value>Příkaz ve tvaru, v němž by měl být zadán na příkazovém řádku (32 znaků).</value>
+  </data>
+  <data name="SubmitCommandIcon" xml:space="preserve">
+    <value>Ikona pásu karet/panelu nástrojů</value>
+  </data>
+  <data name="SubmitCommandIconExplanation" xml:space="preserve">
+    <value>Maximální velikost souboru: 20 MB
+Povolené přípony: PNG, GIF, JPG, JPEG
+Obrázky větší než 100 x 100 pixelů budou zmenšeny.</value>
+  </data>
+  <data name="SubmitGralUsageInstr" xml:space="preserve">
+    <value>Obecné pokyny k použití</value>
+  </data>
+  <data name="SubmitGralUsageInstrExplanation" xml:space="preserve">
+    <value>Pracovní postup produktu a jeho začlenění do pracovního postupu uživatelů</value>
+  </data>
+  <data name="SubmitHelpDocumentation" xml:space="preserve">
+    <value>Dokumentace</value>
+  </data>
+  <data name="SubmitInstUninst" xml:space="preserve">
+    <value>Instalace/odinstalace</value>
+  </data>
+  <data name="SubmitInstUninstExplanation" xml:space="preserve">
+    <value>Informace o umístění, kam se produkt instaluje, a pokyny k odinstalování produktu (1000 znaků). Výchozí text by měl odpovídat balíčkům produktů založeným na rozhraní služby Autodesk Apps.</value>
+  </data>
+  <data name="SubmitKnownIssues" xml:space="preserve">
+    <value>Známé problémy</value>
+  </data>
+  <data name="SubmitKnownIssuesExplanation" xml:space="preserve">
+    <value>Popis, který se zobrazí u této položky na stránce produktu (1000 znaků, minimální formátování HTML).</value>
+  </data>
+  <data name="SubmitRemoveSelectedLanguage" xml:space="preserve">
+    <value>Odstranit vybraný jazyk</value>
+  </data>
+  <data name="SubmitSupportLanguage" xml:space="preserve">
+    <value>Podporovat jazyky</value>
+  </data>
+  <data name="SubmitWizardSidebarMessage" xml:space="preserve">
+    <value>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo.</value>
+  </data>
+  <data name="SubmitCommands" xml:space="preserve">
+    <value>Příkazy</value>
+  </data>
+  <data name="FeedTitle" xml:space="preserve">
+    <value>{0} {1} {2} Speciální produkty</value>
+  </data>
+  <data name="SubmitAppPreview" xml:space="preserve">
+    <value>Náhled</value>
+  </data>
+  <data name="MyUploads" xml:space="preserve">
+    <value>Moje odeslané soubory</value>
+  </data>
+  <data name="Published" xml:space="preserve">
+    <value>Publikováno</value>
+  </data>
+  <data name="DateModified" xml:space="preserve">
+    <value>Datum úpravy</value>
+  </data>
+  <data name="DatePublished" xml:space="preserve">
+    <value>Datum publikování</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Odstranit</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Upravit</value>
+  </data>
+  <data name="PublishANewProduct" xml:space="preserve">
+    <value>Publikovat nový produkt</value>
+  </data>
+  <data name="Unpublish" xml:space="preserve">
+    <value>Zrušit publikování</value>
+  </data>
+  <data name="DateSubmitted" xml:space="preserve">
+    <value>Datum odeslání</value>
+  </data>
+  <data name="Agree" xml:space="preserve">
+    <value>Souhlasím</value>
+  </data>
+  <data name="AppAlreadyExistsError" xml:space="preserve">
+    <value>Aplikace s názvem {0} již existuje.</value>
+  </data>
+  <data name="MissingProductLineError" xml:space="preserve">
+    <value>Nebyla vybrána řada nebo verze produktu. Vyberte ji.</value>
+  </data>
+  <data name="PayPalAlt" xml:space="preserve">
+    <value>PayPal – bezpečnější a jednodušší platby online!</value>
+  </data>
+  <data name="Draft" xml:space="preserve">
+    <value>Koncept</value>
+  </data>
+  <data name="NoProductsPublished" xml:space="preserve">
+    <value>Nemáte žádné publikované produkty.</value>
+  </data>
+  <data name="NoProductsUnpublished" xml:space="preserve">
+    <value>Nemáte žádné produkty, u kterých bylo publikování zrušeno.</value>
+  </data>
+  <data name="Unpublished" xml:space="preserve">
+    <value>Nepublikované</value>
+  </data>
+  <data name="SubmitSuccess" xml:space="preserve">
+    <value>Vaše aplikace bude aktualizována, jakmile budou schváleny revize.</value>
+  </data>
+  <data name="InvalidEmail" xml:space="preserve">
+    <value>Neplatná e-mailová adresa</value>
+  </data>
+  <data name="Required" xml:space="preserve">
+    <value>Požadováno</value>
+  </data>
+  <data name="Native" xml:space="preserve">
+    <value>Nativní</value>
+  </data>
+  <data name="NoProductsSelected" xml:space="preserve">
+    <value>Nebyl vybrán produkt.</value>
+  </data>
+  <data name="Family" xml:space="preserve">
+    <value>Řada {0}</value>
+  </data>
+  <data name="Buy" xml:space="preserve">
+    <value>Koupit</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Stáhnout</value>
+  </data>
+  <data name="AgreeEmail" xml:space="preserve">
+    <value>(Volitelné) Chci dostávat e-mailové zprávy od společnosti Autodesk včetně informací o nových produktech a speciálních nabídkách.</value>
+  </data>
+  <data name="AppFile" xml:space="preserve">
+    <value>Soubor aplikace</value>
+  </data>
+  <data name="ApplicationCompatibility" xml:space="preserve">
+    <value>Kompatibilita aplikace</value>
+  </data>
+  <data name="AppLogo" xml:space="preserve">
+    <value>Logo aplikace</value>
+  </data>
+  <data name="PublishedAppStore" xml:space="preserve">
+    <value>Publikováno na AppStore</value>
+  </data>
+  <data name="Screenshots" xml:space="preserve">
+    <value>Náhled obrazovky</value>
+  </data>
+  <data name="StoreCategories" xml:space="preserve">
+    <value>Kategorie obchodu</value>
+  </data>
+  <data name="SupportedLanguage" xml:space="preserve">
+    <value>Podporované jazyky</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Typ</value>
+  </data>
+  <data name="SubmitCategories" xml:space="preserve">
+    <value>Autodesk Exchange - kategorie</value>
+  </data>
+  <data name="SubmitAppCompatibility" xml:space="preserve">
+    <value>Kompatibilita s produkty společnosti Autodesk</value>
+  </data>
+  <data name="SubmitAppCompatibilityExplanation" xml:space="preserve">
+    <value>Rozbalením produktových řad zobrazíte jednotlivé produkty společnosti Autodesk.
+Vyberte příslušný produkt a verzi kompatibilní s vaší aplikací.</value>
+  </data>
+  <data name="SubmitCategoriesExplanation" xml:space="preserve">
+    <value>Aplikace se zobrazí v následujících obchodech v závislosti na vašem výběru kompatibility.
+    Pro každý obchod vyberte nejvýše čtyři kategorie, které aplikaci nejlépe odpovídají. Pro každý obchod je nutné vybrat alespoň jednu kategorii.</value>
+  </data>
+  <data name="ProductStores" xml:space="preserve">
+    <value>Obchody pro produkt</value>
+  </data>
+  <data name="Categories" xml:space="preserve">
+    <value>Kategorie</value>
+  </data>
+  <data name="PublisherContactInformation" xml:space="preserve">
+    <value>Kontaktní údaje vydavatele</value>
+  </data>
+  <data name="PublisherContactInformationExplanation" xml:space="preserve">
+    <value>Společnost Autodesk vás pomocí těchto údajů kontaktuje v souvislosti s odesláním této aplikace.</value>
+  </data>
+  <data name="FirstName" xml:space="preserve">
+    <value>Křestní jméno</value>
+  </data>
+  <data name="LastName" xml:space="preserve">
+    <value>Příjmení</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="OtherCategory" xml:space="preserve">
+    <value>Jiná kategorie</value>
+  </data>
+  <data name="OtherCategoryExplanation" xml:space="preserve">
+    <value>Navrhněte další kategorie, umožníte tak zlepšení služby Autodesk Exchange.</value>
+  </data>
+  <data name="NoProductReviews" xml:space="preserve">
+    <value>Tento produkt dosud nebyl hodnocen.</value>
+  </data>
+  <data name="ShowAll" xml:space="preserve">
+    <value>Zobrazit vše</value>
+  </data>
+  <data name="AutodeskID" xml:space="preserve">
+    <value>Autodesk ID</value>
+  </data>
+  <data name="AverageCustomerReview" xml:space="preserve">
+    <value>Průměrné hodnocení zákazníků</value>
+  </data>
+  <data name="CreateYourReview" xml:space="preserve">
+    <value>Vytvořit vlastní hodnocení</value>
+  </data>
+  <data name="EditPreviousReview" xml:space="preserve">
+    <value>Upravit předchozí hodnocení</value>
+  </data>
+  <data name="EditReview" xml:space="preserve">
+    <value>upravit hodnocení</value>
+  </data>
+  <data name="HowDoYouRate" xml:space="preserve">
+    <value>Jak hodnotíte</value>
+  </data>
+  <data name="Review" xml:space="preserve">
+    <value>hodnocení</value>
+  </data>
+  <data name="Reviews" xml:space="preserve">
+    <value>hodnocení</value>
+  </data>
+  <data name="TypeReview" xml:space="preserve">
+    <value>Zadejte hodnocení</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Zpět</value>
+  </data>
+  <data name="BackToTop" xml:space="preserve">
+    <value>Zpět nahoru</value>
+  </data>
+  <data name="DownloadToReview" xml:space="preserve">
+    <value>stáhnout a ohodnotit tuto aplikaci</value>
+  </data>
+  <data name="AuthorFacet" xml:space="preserve">
+    <value>Vydavatel</value>
+  </data>
+  <data name="CategoryFacet" xml:space="preserve">
+    <value>Kategorie</value>
+  </data>
+  <data name="AllApps" xml:space="preserve">
+    <value>Všechny aplikace</value>
+  </data>
+  <data name="Apps" xml:space="preserve">
+    <value>Aplikace</value>
+  </data>
+  <data name="groupwidget_featuredApps" xml:space="preserve">
+    <value>Vybrané aplikace</value>
+  </data>
+  <data name="PopularSearches" xml:space="preserve">
+    <value>Nejčastěji hledané</value>
+  </data>
+  <data name="Commission" xml:space="preserve">
+    <value>Provize</value>
+  </data>
+  <data name="CommissionText" xml:space="preserve">
+    <value>V současné době společnost Autodesk účtuje vydavatelům provizi ve výši 0,0 %. Výše provize se může průběžně měnit.</value>
+  </data>
+  <data name="Maintenance" xml:space="preserve">
+    <value>Z důvodu naplánované údržby je služba Exchange Apps dočasně nedostupná. Zkuste to znovu později.</value>
+  </data>
+  <data name="ZeroAppText" xml:space="preserve">
+    <value>Tento obchod s nabídkou aplikací pro váš produkt společnosti Autodesk bude brzy otevřen.&lt;br&gt;Mezitím můžete procházet další obchody služby Exchange Apps nebo nám zaslat svůj &lt;a href="mailto:feedback.apps.exchange@autodesk.com?subject=Autodesk%20Exchange%20Apps%20-%20{0}%20Store%20Opening%20Soon!&amp;body=Thank you for providing your comments. Please tell us what Autodesk Products you use, and what you would like to see in Exchange Apps. We will notify you at this email address when that store is open for business!%0D%0AThe Autodesk Exchange Apps Team"&gt;názor&lt;/a&gt;.</value>
+  </data>
+  <data name="ZeroAppTitle" xml:space="preserve">
+    <value>Již brzy</value>
+  </data>
+  <data name="SignInWriteReview" xml:space="preserve">
+    <value>přihlásit se a napsat hodnocení</value>
+  </data>
+  <data name="BannerText" xml:space="preserve">
+    <value>Služba Exchange Apps je nyní v beta verzi. Oficiální datum vydání je 27. březen 2012.</value>
+  </data>
+  <data name="TypeTitle" xml:space="preserve">
+    <value>Nadpis hodnocení</value>
+  </data>
+  <data name="Filters" xml:space="preserve">
+    <value>Filtry</value>
+  </data>
+  <data name="RemoveFilter" xml:space="preserve">
+    <value>Odstranit filtr</value>
+  </data>
+  <data name="LegalAcceptedEula" xml:space="preserve">
+    <value>Přečtěte si podmínky používání a přijměte je.</value>
+  </data>
+  <data name="LegalAcceptedTerms" xml:space="preserve">
+    <value>Přečtěte si licenční smlouvu koncového uživatele a přijměte ji.</value>
+  </data>
+  <data name="LegalAgreementNone" xml:space="preserve">
+    <value>Přečtěte si podmínky používání a licenční smlouvu koncového uživatele a přijměte je.</value>
+  </data>
+  <data name="LegalEULA" xml:space="preserve">
+    <value>Licenční smlouva koncového uživatele</value>
+  </data>
+  <data name="LegalReadAndAgree" xml:space="preserve">
+    <value>Potvrzuji přečtení a svůj souhlas</value>
+  </data>
+  <data name="LegalTermsOfUse" xml:space="preserve">
+    <value>Podmínky používání</value>
+  </data>
+  <data name="LegalThirdParty" xml:space="preserve">
+    <value>Pokud produkt stahujete od jiného vydavatele nebo poskytovatele, tato licenční smlouva koncového uživatele je uzavřena výhradně mezi vydavatelem nebo poskytovatelem produktu („Poskytovatel licence“) a vámi a nikoli se společností Autodesk, Inc. Dotazy, stížnosti nebo požadavky týkající se produktu by měly být směřovány výhradně na Poskytovatele licence, jehož kontaktní údaje najdete na stránce stažení produktu.</value>
+  </data>
+  <data name="SubmitAppAddScreenshot" xml:space="preserve">
+    <value>Přidat snímek obrazovky</value>
+  </data>
+  <data name="SubmitAppChooseFile" xml:space="preserve">
+    <value>Vybrat soubor</value>
+  </data>
+  <data name="SubmitAppNoFileSelected" xml:space="preserve">
+    <value>Není vybrán soubor.</value>
+  </data>
+  <data name="SubmitAppRemove" xml:space="preserve">
+    <value>Odebrat</value>
+  </data>
+  <data name="SubmitAppUpload" xml:space="preserve">
+    <value>Odeslat</value>
+  </data>
+  <data name="TooLong" xml:space="preserve">
+    <value>Stručný popis nesmí být delší než 200 znaků.</value>
+  </data>
+  <data name="CategoryRequired" xml:space="preserve">
+    <value>Pro každý obchod je potřeba vybrat jednu ze čtyř kategorií.</value>
+  </data>
+  <data name="AutodeskExhangeTeam" xml:space="preserve">
+    <value>Tým služby Autodesk Exchange</value>
+  </data>
+  <data name="PageControlInputLabel" xml:space="preserve">
+    <value>Stránka</value>
+  </data>
+  <data name="PageControlInputGo" xml:space="preserve">
+    <value>Přejít</value>
+  </data>
+  <data name="PublisherEmailBody" xml:space="preserve">
+    <value>Vážená paní / vážený pane {0},&lt;br/&gt;&lt;br/&gt;Váš produkt (&lt;a href = '{1}'&gt;{2}&lt;/a&gt;) byl stažen z webu Autodesk Exchange Apps &amp;lt{3}&amp;gt.&lt;br/&gt;&lt;br/&gt;Zde jsou informace o uživateli:&lt;br/&gt;&lt;br/&gt;E-mail: ({4})&lt;br/&gt;Jméno a příjmení: {5}&lt;br/&gt;Funkce: {6}&lt;br/&gt;Název společnosti: {7}&lt;br/&gt;Země: {8}&lt;br/&gt;Počet zakoupených kopií: {9}&lt;br/&gt;&lt;br/&gt;&lt;p&gt;&lt;b&gt;{10}&lt;/b&gt;&lt;p&gt;&lt;br/&gt;&lt;br/&gt;Tyto informace vám byly zaslány pro účely dokumentace, podpory koncových uživatelů a záruky. Jako vydavatel nesete výhradní zodpovědnost za určení, jaká komunikace (provozní a obchodní) je s tímto koncovým uživatelem vhodná v souladu s příslušnými zákony a směrnicemi na ochranu soukromí/osobních údajů.&lt;/p&gt;&lt;br/&gt;Tým služby Autodesk Exchange</value>
+  </data>
+  <data name="PublisherEmailSubject" xml:space="preserve">
+    <value>Ze služby Autodesk Exchange Apps &lt;{1}&gt; byl stažen produkt ({0}).</value>
+  </data>
+  <data name="ProductFamilies" xml:space="preserve">
+    <value>Produktové řady</value>
+  </data>
+  <data name="CustomerReviews" xml:space="preserve">
+    <value>Hodnocení zákazníků</value>
+  </data>
+  <data name="DownloadData" xml:space="preserve">
+    <value>Údaje o stahování</value>
+  </data>
+  <data name="Downloads" xml:space="preserve">
+    <value>Stahování</value>
+  </data>
+  <data name="Quicklinks" xml:space="preserve">
+    <value>Rychlé odkazy</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>Datum (mm/dd/rrrr)</value>
+  </data>
+  <data name="CommentMailNotificationBody" xml:space="preserve">
+    <value>Datum: {1}&lt;br/&gt;Uživatel: {2}&lt;br/&gt;E-mail uživatele: {3}&lt;br/&gt;Hodnocení: {4}&lt;br/&gt;Komentář: &lt;p style="margin:0 0 0 10px;"&gt;{5}&lt;/p&gt;&lt;p style="margin:0 0 0 10px;"&gt;{6}&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Chcete-li tento komentář schválit nebo zamítnout, &lt;a href="{7}"&gt;klikněte sem.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;[Poznámka: Pokud uvedený odkaz nefunguje, přihlaste se do CPR a schvalte komentář.]&lt;/p&gt;</value>
+  </data>
+  <data name="CommentMailNotificationSubject" xml:space="preserve">
+    <value>Byl publikován nový komentář pro {0}.</value>
+  </data>
+  <data name="ExchangeAppsPublisherAgreement" xml:space="preserve">
+    <value>Smlouva vydavatele služby Exchange Apps</value>
+  </data>
+  <data name="PublishersAgreement" xml:space="preserve">
+    <value>Smlouva vydavatele</value>
+  </data>
+  <data name="InvalidPrice" xml:space="preserve">
+    <value>Neplatná cena</value>
+  </data>
+  <data name="InvalidUrl" xml:space="preserve">
+    <value>Neplatná adresa URL</value>
+  </data>
+  <data name="TooShort" xml:space="preserve">
+    <value>Délka musí být alespoň 3 znaky.</value>
+  </data>
+  <data name="NewAppSubmittedEmailMessage" xml:space="preserve">
+    <value>Dobrý den, pracovníci týmu služby Autodesk Exchange,&lt;br/&gt;&lt;br/&gt;obdrželi jsme ke schválení produkt ({0}) odeslaný uživatelem {1}.&lt;br/&gt;Odkaz je: {2}</value>
+  </data>
+  <data name="NewAppSubmittedEmailSignature" xml:space="preserve">
+    <value>Pokud máte nějaké dotazy, obraťte se na &lt;a href="mailto:appsinfo@autodesk.com"&gt;appsinfo@autodesk.com&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Děkujeme.&lt;br/&gt;Tým služby Autodesk Exchange.</value>
+  </data>
+  <data name="NewAppSubmittedEmailSuject" xml:space="preserve">
+    <value>Obdrželi jste ke schválení produkt ({0}) odeslaný uživatelem {1}.</value>
+  </data>
+  <data name="SubmitCommandsExplanation" xml:space="preserve">
+    <value>Následující informace budou formátovány do souboru, který bude přidán do balíčku produktu a dostupný online.</value>
+  </data>
+  <data name="SupportInfo" xml:space="preserve">
+    <value>Informace o podpoře</value>
+  </data>
+  <data name="SupportInfoExplanation" xml:space="preserve">
+    <value>Vysvětlení, jak, kdy a kde mohou zákazníci někoho kontaktovat a získat podporu k produktu. 1000 znaků, minimální formátování HTML.</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Hledat</value>
+  </data>
+  <data name="EndUserLicenseAgreement" xml:space="preserve">
+    <value>Licenční smlouva koncového uživatele</value>
+  </data>
+  <data name="Publish" xml:space="preserve">
+    <value>Publikovat</value>
+  </data>
+  <data name="TermsAndConditions" xml:space="preserve">
+    <value>Podmínky</value>
+  </data>
+  <data name="SearchResultsText" xml:space="preserve">
+    <value>Výsledky hledání</value>
+  </data>
+  <data name="DeniedAccess" xml:space="preserve">
+    <value>Nemáte oprávnění k provedení této akce.</value>
+  </data>
+  <data name="NoProductsUploaded" xml:space="preserve">
+    <value>Nemáte žádné odeslané produkty.</value>
+  </data>
+  <data name="DetailsPageTitle" xml:space="preserve">
+    <value>{0}{1} | Autodesk Exchange Apps</value>
+  </data>
+  <data name="HomePageTitle" xml:space="preserve">
+    <value>{0} Obchod: moduly plug-in, doplňky a rozšíření pro {1} | Autodesk Exchange Apps</value>
+  </data>
+  <data name="ContactUs" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+  <data name="Approved" xml:space="preserve">
+    <value>Schváleno</value>
+  </data>
+  <data name="CommentMessage" xml:space="preserve">
+    <value>Aktualizace byla odeslána.</value>
+  </data>
+  <data name="ManageComments" xml:space="preserve">
+    <value>Spravovat poznámky</value>
+  </data>
+  <data name="NotApproved" xml:space="preserve">
+    <value>Neschváleno</value>
+  </data>
+  <data name="Pending" xml:space="preserve">
+    <value>Čeká</value>
+  </data>
+  <data name="FAQ" xml:space="preserve">
+    <value>Časté dotazy</value>
+  </data>
+  <data name="ProductCompanyWebsite" xml:space="preserve">
+    <value>Webové stránky:</value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>Čas</value>
+  </data>
+  <data name="SubscriberOnlyBadgePopupContentForSubscriberUser" xml:space="preserve">
+    <value>Tato aplikace je k dispozici pouze pro zákazníky s předplatným Autodesk Subscription. Další informace o předplatném najdete na</value>
+  </data>
+  <data name="SubscriberFreeBadgePopupContentForSubscriberUser" xml:space="preserve">
+    <value>Tato aplikace je zdarma pro zákazníky s předplatným Autodesk Subscription. Další informace o předplatném najdete na</value>
+  </data>
+  <data name="SubscriberBenefit" xml:space="preserve">
+    <value>Výhoda pro předplatitele:</value>
+  </data>
+  <data name="SubscriberOnly" xml:space="preserve">
+    <value>Předplacená aplikace</value>
+  </data>
+  <data name="SubscriberBenefitProductList" xml:space="preserve">
+    <value>Tato aplikace je zdarma pro následující předplatné Autodesk Subscription:</value>
+  </data>
+  <data name="SubscriptionDescforValidUsers" xml:space="preserve">
+    <value>Bezplatná aplikace pro předplatitele</value>
+  </data>
+  <data name="Less" xml:space="preserve">
+    <value>Méně &gt;&gt;</value>
+  </data>
+  <data name="More" xml:space="preserve">
+    <value>Více &gt;&gt;</value>
+  </data>
+  <data name="SubscriptionMoreInfo" xml:space="preserve">
+    <value>Další informace o předplatném najdete na</value>
+  </data>
+  <data name="SubscriptionSite" xml:space="preserve">
+    <value>&lt;a href="http://subscription.autodesk.com" id="SubscriptionCenterHyperLink" target="_blank"&gt;portálu Autodesk Subscription Center&lt;/a&gt;.</value>
+  </data>
+  <data name="SubscriberOnlyBadgePopupContentForNonsubscriberUser" xml:space="preserve">
+    <value>Tato aplikace je k dispozici zdarma v rámci předplatného Autodesk. Další podrobnosti</value>
+  </data>
+  <data name="SubscriberFreeBadgePopupContentForNonsubscriberUser" xml:space="preserve">
+    <value>Tato aplikace je zdarma pro předplatné Autodesk Subscription. Další informace o předplatném najdete na</value>
+  </data>
+  <data name="SubscriberOnlyProductList" xml:space="preserve">
+    <value>Tato aplikace je k dispozici zdarma pro následující předplatné Autodesk Subscription.</value>
+  </data>
+  <data name="SubscriptionDescforSubscriberBenefit" xml:space="preserve">
+    <value>Bezplatná aplikace pro předplatitele</value>
+  </data>
+  <data name="SubscriptionDescforSubscriberOnly" xml:space="preserve">
+    <value>Aplikace pouze pro předplatitele</value>
+  </data>
+  <data name="SubscriptionBenefitUse" xml:space="preserve">
+    <value>(Vaše předplatné)</value>
+  </data>
+  <data name="SubscriptionRecommendation" xml:space="preserve">
+    <value>Podrobnosti najdete na </value>
+  </data>
+  <data name="CommentInfoForNonSubscriber" xml:space="preserve">
+    <value>Stát se předplatitelem s možností stahovat aplikace a zadávat hodnocení</value>
+  </data>
+  <data name="SubscriberBenefitAppsFilter" xml:space="preserve">
+    <value>Doplňkové aplikace zvýhodněné pro předplatitele</value>
+  </data>
+  <data name="FreeAppsFilter" xml:space="preserve">
+    <value>Bezplatné aplikace</value>
+  </data>
+  <data name="SubscriberFreeAppsFilter" xml:space="preserve">
+    <value>Doplňkové aplikace zdarma pro předplatitele</value>
+  </data>
+  <data name="SubscriberOnlyAppsFilter" xml:space="preserve">
+    <value>Doplňkové aplikace pouze pro předplatitele</value>
+  </data>
+  <data name="LiveVersion" xml:space="preserve">
+    <value>Živá verze</value>
+  </data>
+  <data name="PreviewVersion" xml:space="preserve">
+    <value>Upravená verze</value>
+  </data>
+  <data name="Actions" xml:space="preserve">
+    <value>Akce</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Nedostupné</value>
+  </data>
+  <data name="PreviewAction" xml:space="preserve">
+    <value>Náhled</value>
+  </data>
+  <data name="ViewAction" xml:space="preserve">
+    <value>Zobrazit</value>
+  </data>
+  <data name="BackToSummary" xml:space="preserve">
+    <value>Zpět na souhrn</value>
+  </data>
+  <data name="DescriptionTooLong" xml:space="preserve">
+    <value>Popis nesmí být delší než 4000 znaků.</value>
+  </data>
+  <data name="ShowTopFive" xml:space="preserve">
+    <value>&lt;&lt; 5 nejoblíbenějších</value>
+  </data>
+  <data name="ChangeLanguage" xml:space="preserve">
+    <value>Změnit jazyk</value>
+  </data>
+  <data name="Passcode" xml:space="preserve">
+    <value>Heslo</value>
+  </data>
+  <data name="HeroImageDes_3dsmax" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci Autodesk 3ds Max byla vytvořená komunitou pro komunitu a pomůže vám při přizpůsobování softwaru, aby vyhovoval vašim jedinečným a specifickým požadavkům.</value>
+  </data>
+  <data name="HeroImageDes_maya" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci Autodesk Maya byla vytvořená komunitou pro komunitu a pomůže vám při přizpůsobování softwaru, aby vyhovoval vašim jedinečným a specifickým požadavkům.</value>
+  </data>
+  <data name="HeroImageTitle_3dsmax" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci Autodesk&lt;sup&gt;®&lt;/sup&gt; 3ds Max&lt;sup&gt;®&lt;/sup&gt;.</value>
+  </data>
+  <data name="HeroImageTitle_maya" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci Autodesk&lt;sup&gt;®&lt;/sup&gt; Maya&lt;sup&gt;®&lt;/sup&gt;.</value>
+  </data>
+  <data name="AppType" xml:space="preserve">
+    <value>Typ aplikace</value>
+  </data>
+  <data name="ChangeMyLanguage" xml:space="preserve">
+    <value>Změnit jazyk</value>
+  </data>
+  <data name="ContinueInCurrentLanguage" xml:space="preserve">
+    <value>Pokračovat v angličtině</value>
+  </data>
+  <data name="From10To50" xml:space="preserve">
+    <value>10 až 49,99 USD</value>
+  </data>
+  <data name="From50To100" xml:space="preserve">
+    <value>50 až 99,99 USD</value>
+  </data>
+  <data name="LanguageSettingDialogText" xml:space="preserve">
+    <value>Profil služby Autodesk 360 má jiné jazykové nastavení než váš prohlížeč.
+Chcete změnit jazyk spojený s profilem služby Autodesk 360?</value>
+  </data>
+  <data name="LanguageSettingsDoNotMatch" xml:space="preserve">
+    <value>Nastavení jazyka nesouhlasí.</value>
+  </data>
+  <data name="LessThan10" xml:space="preserve">
+    <value>Méně než 9,99 USD</value>
+  </data>
+  <data name="MoreThan100" xml:space="preserve">
+    <value>Více než 100 USD</value>
+  </data>
+  <data name="Priced" xml:space="preserve">
+    <value>Cena</value>
+  </data>
+  <data name="PriceRange" xml:space="preserve">
+    <value>Rozsah ceny</value>
+  </data>
+  <data name="Rating" xml:space="preserve">
+    <value>Hodnocení</value>
+  </data>
+  <data name="SubscriberBe" xml:space="preserve">
+    <value>Výhoda pro předplatitele</value>
+  </data>
+  <data name="SubscriberFree" xml:space="preserve">
+    <value>Zdarma pro předplatitele</value>
+  </data>
+  <data name="HeroImageDes_360nxs" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci Autodesk PLM 360 byla vytvořená komunitou pro komunitu a pomůže vám dosáhnout vyšší rychlosti, přesnosti a automatizace od koncepce až po výrobu.</value>
+  </data>
+  <data name="HeroImageDes_acad_e" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci AutoCAD Electrical byla vytvořená komunitou pro komunitu a pomůže vám přizpůsobit software, aby vyhovoval vašim jedinečným a specifickým požadavkům.</value>
+  </data>
+  <data name="HeroImageDes_acd" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci AutoCAD byla vytvořená komunitou pro komunitu a pomůže vám přizpůsobit software, aby vyhovoval vašim jedinečným a specifickým požadavkům.</value>
+  </data>
+  <data name="HeroImageDes_alias" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci Autodesk Alias Design byla vytvořená komunitou pro komunitu a pomůže vám přizpůsobit software, aby vyhovoval vašim jedinečným a specifickým požadavkům.</value>
+  </data>
+  <data name="HeroImageDes_amech" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci AutoCAD Mechanical byla vytvořená komunitou pro komunitu a pomůže vám přizpůsobit software, aby vyhovoval vašim jedinečným a specifickým požadavkům.</value>
+  </data>
+  <data name="HeroImageDes_arch" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci AutoCAD Architecture byla vytvořená komunitou pro komunitu a pomůže vám přizpůsobit software, aby vyhovoval vašim jedinečným a specifickým požadavkům.</value>
+  </data>
+  <data name="HeroImageDes_civ3d" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci AutoCAD Civil 3D byla vytvořená komunitou pro komunitu a pomůže vám přizpůsobit software, aby vyhovoval vašim jedinečným a specifickým požadavkům.</value>
+  </data>
+  <data name="HeroImageDes_ecscad" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci AutoCAD ecscad byla vytvořená komunitou pro komunitu a pomůže vám přizpůsobit software, aby vyhovoval vašim jedinečným a specifickým požadavkům.</value>
+  </data>
+  <data name="HeroImageDes_invlt" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci Autodesk Inventor LT byla vytvořená komunitou pro komunitu a pomůže vám dosáhnout vyšší rychlosti, přesnosti a automatizace od koncepce až po výrobu.</value>
+  </data>
+  <data name="HeroImageDes_invntor" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci Autodesk Inventor byla vytvořená komunitou pro komunitu a pomůže vám dosáhnout vyšší rychlosti, přesnosti a automatizace od koncepce až po výrobu.</value>
+  </data>
+  <data name="HeroImageDes_invpub" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci Autodesk Inventor Publisher byla vytvořená komunitou pro komunitu a pomůže vám přizpůsobit software, aby vyhovoval vašim jedinečným a specifickým požadavkům.</value>
+  </data>
+  <data name="HeroImageDes_mep" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci AutoCAD MEP byla vytvořená komunitou pro komunitu a pomůže vám přizpůsobit software, aby vyhovoval vašim jedinečným a specifickým požadavkům.</value>
+  </data>
+  <data name="HeroImageDes_rvt" xml:space="preserve">
+    <value>Služba Autodesk Exchange, váš portál do ekosystému softwaru Autodesk Revit, poskytuje přístup k doplňkům, které vám umožní efektivněji vytvářet plnohodnotné informační modely budov (BIM).</value>
+  </data>
+  <data name="HeroImageDes_scfd" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci Autodesk Simulation byla vytvořená komunitou pro komunitu a pomůže vám dosáhnout vyšší rychlosti, přesnosti a automatizace od koncepce až po výrobu.</value>
+  </data>
+  <data name="HeroImageDes_vltc" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci Autodesk Vault byla vytvořená komunitou pro komunitu a pomůže vám dosáhnout vyšší rychlosti, přesnosti a automatizace od koncepce až po výrobu.</value>
+  </data>
+  <data name="HeroImageTitle_360nxs" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci Autodesk&lt;sup&gt;®&lt;/sup&gt; PLM 360.</value>
+  </data>
+  <data name="HeroImageTitle_acad_e" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci AutoCAD&lt;sup&gt;®&lt;/sup&gt; Electrical.</value>
+  </data>
+  <data name="HeroImageTitle_acd" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci AutoCAD&lt;sup&gt;®&lt;/sup&gt;.</value>
+  </data>
+  <data name="HeroImageTitle_alias" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci Autodesk&lt;sup&gt;®&lt;/sup&gt; Alias&lt;sup&gt;®&lt;/sup&gt; Design.</value>
+  </data>
+  <data name="HeroImageTitle_amech" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci AutoCAD&lt;sup&gt;®&lt;/sup&gt; Mechanical.</value>
+  </data>
+  <data name="HeroImageTitle_arch" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci AutoCAD&lt;sup&gt;®&lt;/sup&gt; Architecture.</value>
+  </data>
+  <data name="HeroImageTitle_civ3d" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci AutoCAD&lt;sup&gt;®&lt;/sup&gt; Civil 3D&lt;sup&gt;®&lt;/sup&gt;.</value>
+  </data>
+  <data name="HeroImageTitle_ecscad" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci AutoCAD&lt;sup&gt;®&lt;/sup&gt; ecscad.</value>
+  </data>
+  <data name="HeroImageTitle_invlt" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci AutoCAD&lt;sup&gt;®&lt;/sup&gt; Inventor LT™.</value>
+  </data>
+  <data name="HeroImageTitle_invntor" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci Autodesk&lt;sup&gt;®&lt;/sup&gt; Inventor&lt;sup&gt;®&lt;/sup&gt;.</value>
+  </data>
+  <data name="HeroImageTitle_invpub" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci Autodesk&lt;sup&gt;®&lt;/sup&gt; Inventor&lt;sup&gt;®&lt;/sup&gt; Publisher.</value>
+  </data>
+  <data name="HeroImageTitle_mep" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci AutoCAD&lt;sup&gt;®&lt;/sup&gt; MEP.</value>
+  </data>
+  <data name="HeroImageTitle_rvt" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci Autodesk&lt;sup&gt;®&lt;/sup&gt; Revit&lt;sup&gt;®&lt;/sup&gt;.</value>
+  </data>
+  <data name="HeroImageTitle_scfd" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci Autodesk&lt;sup&gt;®&lt;/sup&gt; Simulation.</value>
+  </data>
+  <data name="HeroImageTitle_vltc" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci Autodesk&lt;sup&gt;®&lt;/sup&gt; Vault.</value>
+  </data>
+  <data name="PurposeOfUse" xml:space="preserve">
+    <value>Účel použití</value>
+  </data>
+  <data name="PasscodeBody" xml:space="preserve">
+    <value>Vážená paní / vážený pane {0},&lt;br/&gt;&lt;br/&gt;vaše heslo ke službě Autodesk Exchange Apps je: {1}&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Váš tým Autodesk Exchange</value>
+  </data>
+  <data name="PasscodeSubject" xml:space="preserve">
+    <value>Heslo ke službě Autodesk Exchange Apps</value>
+  </data>
+  <data name="RequestPasscodeBody" xml:space="preserve">
+    <value>Vážený týme Autodesk Exchange,&lt;br/&gt;&lt;br/&gt;obdrželi jsme žádost o heslo ke službě Autodesk Exchange Apps od následujícího uživatele.&lt;br/&gt;&lt;br/&gt;Jméno: {0} &lt;br/&gt;E-mail: {1}&lt;br/&gt;Společnost: {2}&lt;br/&gt;Účel použití: {3}&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Váš tým Autodesk Exchange</value>
+  </data>
+  <data name="RequestPasscodeSubject" xml:space="preserve">
+    <value>Žádost o heslo ke službě Autodesk Exchange Apps</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>Odeslat</value>
+  </data>
+  <data name="RestrictAccessSuccessDescription" xml:space="preserve">
+    <value>Další pokyny dostanete e-mailem (u uživatelů, kteří nejsou zaměstnanci společnosti Autodesk, to může několik hodin trvat).</value>
+  </data>
+  <data name="RestrictAccessSuccessTitle" xml:space="preserve">
+    <value>Vaše žádost byla úspěšně odeslána.</value>
+  </data>
+  <data name="ThankYou" xml:space="preserve">
+    <value>Děkujeme vám!</value>
+  </data>
+  <data name="Paid" xml:space="preserve">
+    <value>Placené</value>
+  </data>
+  <data name="SubmitApp" xml:space="preserve">
+    <value>Odeslat aplikaci</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>Uvítání vydavatele</value>
+  </data>
+  <data name="SubmitWizardInitMessage" xml:space="preserve">
+    <value>Nejprve přidejte mateřský jazyk z levého panelu.</value>
+  </data>
+  <data name="PubliserProfile" xml:space="preserve">
+    <value>Profil vydavatele</value>
+  </data>
+  <data name="PubliserProfileExplanation" xml:space="preserve">
+    <value>informace o profilu se použijí u všech aplikací, které jste publikovali</value>
+  </data>
+  <data name="PayPalAccount" xml:space="preserve">
+    <value>Účet PayPal</value>
+  </data>
+  <data name="SavePublisherProfile" xml:space="preserve">
+    <value>Uložit profil vydavatele</value>
+  </data>
+  <data name="EditPublisherProfile" xml:space="preserve">
+    <value>Upravit profil vydavatele</value>
+  </data>
+  <data name="Step1" xml:space="preserve">
+    <value>Krok 1 ze 2</value>
+  </data>
+  <data name="AppPublishing" xml:space="preserve">
+    <value>Publikování aplikace</value>
+  </data>
+  <data name="AppSummary" xml:space="preserve">
+    <value>Souhrnné informace o aplikaci</value>
+  </data>
+  <data name="PayPayAccountNotice" xml:space="preserve">
+    <value>Upozornění: Bez účtu PayPal nelze při publikování aplikace nastavit cenu. Nezapomeňte použít svou hlavní e-mailovou adresu účtu PayPal.</value>
+  </data>
+  <data name="PublisherProfile" xml:space="preserve">
+    <value>Profil vydavatele</value>
+  </data>
+  <data name="PublisherProfileApplyToAll" xml:space="preserve">
+    <value>Informace o profilu se použijí u všech aplikací, které publikujete.</value>
+  </data>
+  <data name="PublisherProfileNotification" xml:space="preserve">
+    <value>Před publikováním aplikace je nutné dokončit profil vydavatele. Upozornění: informace o profilu se použijí u všech aplikací, které publikujete.</value>
+  </data>
+  <data name="Step2" xml:space="preserve">
+    <value>Krok 2 ze 2</value>
+  </data>
+  <data name="AddCommand" xml:space="preserve">
+    <value>Přidat příkaz</value>
+  </data>
+  <data name="PublisherContactInformationExplanation2" xml:space="preserve">
+    <value>Tyto údaje se nezobrazí na stránce produktu.</value>
+  </data>
+  <data name="ProfileInfoAppliesToAllApps" xml:space="preserve">
+    <value>Informace o profilu se použijí u všech aplikací, které publikujete.</value>
+  </data>
+  <data name="SelectLanguage" xml:space="preserve">
+    <value>Vybrat jazyk</value>
+  </data>
+  <data name="OSLanguagesSelectorDesc" xml:space="preserve">
+    <value>Po publikování této jazykové verze aplikace pro tento operační systém můžete přidat další jazykové verze pro další operační systémy později.</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Jazyk</value>
+  </data>
+  <data name="AddNewLanguageVersion" xml:space="preserve">
+    <value>Přidat novou jazykovou verzi</value>
+  </data>
+  <data name="AddNewLanguageVersion_BrowserApp" xml:space="preserve">
+    <value>Přidat novou jazykovou verzi</value>
+  </data>
+  <data name="AppStatus" xml:space="preserve">
+    <value>Stav aplikace:</value>
+  </data>
+  <data name="LanguageVersionsOfTheApp" xml:space="preserve">
+    <value>Jazykové verze aplikace pro různé operační systémy</value>
+  </data>
+  <data name="LanguageVersionsOfTheApp_BrowserApp" xml:space="preserve">
+    <value>Jazykové verze aplikace</value>
+  </data>
+  <data name="DeleteTheApp" xml:space="preserve">
+    <value>Odstranit aplikaci</value>
+  </data>
+  <data name="InfoAsset" xml:space="preserve">
+    <value>Informace/komponenty</value>
+  </data>
+  <data name="Invalid" xml:space="preserve">
+    <value>Neplatné</value>
+  </data>
+  <data name="NameInTheLanguage" xml:space="preserve">
+    <value>Název v daném jazyce</value>
+  </data>
+  <data name="PreviewDraft" xml:space="preserve">
+    <value>Náhled návrhu</value>
+  </data>
+  <data name="UnpublishTheApp" xml:space="preserve">
+    <value>Zrušit publikování aplikace</value>
+  </data>
+  <data name="Valid" xml:space="preserve">
+    <value>Platné</value>
+  </data>
+  <data name="ViewLiveVersion" xml:space="preserve">
+    <value>Zobrazit živou verzi</value>
+  </data>
+  <data name="Languages" xml:space="preserve">
+    <value>Jazyky</value>
+  </data>
+  <data name="Manage" xml:space="preserve">
+    <value>Spravovat</value>
+  </data>
+  <data name="FinishAppEdit" xml:space="preserve">
+    <value>Dokončit</value>
+  </data>
+  <data name="CannotDelete" xml:space="preserve">
+    <value>Nelze odstranit.</value>
+  </data>
+  <data name="CannotDeleteDes" xml:space="preserve">
+    <value>Tuto jazykovou verzi nelze odstranit, protože na příslušný soubor aplikace odkazují jiné jazykové verze.</value>
+  </data>
+  <data name="CannotSubmit" xml:space="preserve">
+    <value>Nelze odeslat</value>
+  </data>
+  <data name="CannotSubmitDes" xml:space="preserve">
+    <value>Aplikaci nelze odeslat, protože v jazykových verzích existuje chyba.</value>
+  </data>
+  <data name="CheckDeleteApp" xml:space="preserve">
+    <value>Odstranit aplikaci?</value>
+  </data>
+  <data name="CheckDeleteAppDes" xml:space="preserve">
+    <value>Opravdu chcete aplikaci trvale odstranit?</value>
+  </data>
+  <data name="CheckDeleteAppDes2" xml:space="preserve">
+    <value>Tato akce odstraní celou aplikaci, protože toto je jediný podporovaný jazyk. Opravdu chcete aplikaci trvale odstranit?</value>
+  </data>
+  <data name="CheckDeleteLang" xml:space="preserve">
+    <value>Odstranit jazykovou verzi?</value>
+  </data>
+  <data name="CheckDeleteLangDes" xml:space="preserve">
+    <value>Opravdu chcete odstranit tuto verzi: {0}? Tato akce trvale odstraní všechny informace/komponenty a odebere aplikaci z webu Exchange {1}.</value>
+  </data>
+  <data name="CheckDeleteLangDes2" xml:space="preserve">
+    <value>Opravdu chcete odstranit tuto verzi: {0}? Tato akce trvale odstraní všechny informace/komponenty.</value>
+  </data>
+  <data name="CheckUnpublishApp" xml:space="preserve">
+    <value>Zrušit publikování aplikace?</value>
+  </data>
+  <data name="CheckUnpublishAppDes" xml:space="preserve">
+    <value>Opravdu chcete zrušit publikování této jazykové verze aplikace pro tento operační systém? Aplikace bude umístěna do konceptů a před publikováním bude muset být znovu schválena.</value>
+  </data>
+  <data name="LiveLanguages" xml:space="preserve">
+    <value>Živé jazykové verze pro různé operační systémy</value>
+  </data>
+  <data name="LiveLanguages_BrowserApp" xml:space="preserve">
+    <value>Živé jazykové verze</value>
+  </data>
+  <data name="PublishedStores" xml:space="preserve">
+    <value>Publikováno v obchodech</value>
+  </data>
+  <data name="SubmitTheApp" xml:space="preserve">
+    <value>Odeslat aplikaci</value>
+  </data>
+  <data name="CannotDeleteForRef" xml:space="preserve">
+    <value>Jazykovou verzi {0} nelze odstranit, protože na příslušný soubor aplikace odkazují jiné jazykové verze.</value>
+  </data>
+  <data name="CategoryNotice" xml:space="preserve">
+    <value>Poznámka: Výběr kategorie platí pro verze, které podporují stejný operační systém.</value>
+  </data>
+  <data name="InfoCompletion" xml:space="preserve">
+    <value>Informace – dokončení</value>
+  </data>
+  <data name="ProductCompatibilityNotice" xml:space="preserve">
+    <value>Poznámka: Výběr kompatibilních produktů Autodesk platí pro verze, které podporují stejný operační systém.</value>
+  </data>
+  <data name="StopUseReferencedAsset" xml:space="preserve">
+    <value>Zastavit používání odkazované komponenty</value>
+  </data>
+  <data name="UseReferencedAsset" xml:space="preserve">
+    <value>Použít odkazovanou komponentu</value>
+  </data>
+  <data name="SubmitNotification" xml:space="preserve">
+    <value>Odesílaná aplikace zahrnuje všechny jazykové verze pro všechny operační systémy. Aplikaci nelze odeslat, pokud v nějaké jazykové verzi pro nějaký operační systém existuje nějaká chyba nebo pokud po odeslání nebyly provedeny žádné změny.</value>
+  </data>
+  <data name="SubmitNotification_BrowserApp" xml:space="preserve">
+    <value>Při odeslání aplikace budou zahrnuty všechny jazykové verze. Aplikaci nelze odeslat, pokud v některé jazykové verzi existuje chyba nebo pokud od posledního odeslání nebyly provedeny žádné úpravy.</value>
+  </data>
+  <data name="PriceToAllLanguageVersions" xml:space="preserve">
+    <value>Cena platí pro všechny jazykové verze pro všechny operační systémy.</value>
+  </data>
+  <data name="InformationToAllLanguageVersions" xml:space="preserve">
+    <value>Následující informace platí pro všechny operační systémy a jazykové verze.</value>
+  </data>
+  <data name="DecimalPointNotice" xml:space="preserve">
+    <value>Poznámka: K zadání desetinných míst použijte tečky (.). Příklad: 1.99.</value>
+  </data>
+  <data name="ActionsForApp" xml:space="preserve">
+    <value>Akce dostupné pro tuto aplikaci.</value>
+  </data>
+  <data name="AddNewLangDes" xml:space="preserve">
+    <value>Tímto se k aplikaci přidá nová jazyková verze pro nový operační systém.</value>
+  </data>
+  <data name="AddNewLangDes_BrowserApp" xml:space="preserve">
+    <value>Tímto se přidá nová jazyková verze aplikace.</value>
+  </data>
+  <data name="AppDeleteDes" xml:space="preserve">
+    <value>Tímto se odstraní všechny jazykové verze aplikace pro všechny operační systémy a veškerá data aplikace.</value>
+  </data>
+  <data name="AppDeleteDes_BrowserApp" xml:space="preserve">
+    <value>Tímto se odstraní všechny jazykové verze a data aplikace.</value>
+  </data>
+  <data name="AppPrice" xml:space="preserve">
+    <value>Cena aplikace</value>
+  </data>
+  <data name="AppPriceInDraft" xml:space="preserve">
+    <value>Cena aplikace v návrhu</value>
+  </data>
+  <data name="AppID" xml:space="preserve">
+    <value>ID aplikace</value>
+  </data>
+  <data name="HeroImageDes_plnt3d" xml:space="preserve">
+    <value>Aplikace Autodesk Exchange pro aplikaci AutoCAD Plant 3D, která byla vytvořena komunitou pro komunitu, vám pomůže přizpůsobit software tak, aby vyhovoval vašim jedinečným a specifickým požadavkům na návrh.</value>
+  </data>
+  <data name="HeroImageTitle_plnt3d" xml:space="preserve">
+    <value>Vítejte v aplikaci Autodesk Exchange pro aplikaci AutoCAD&lt;sup&gt;®&lt;/sup&gt; Plant 3D.</value>
+  </data>
+  <data name="InfoIncomplete" xml:space="preserve">
+    <value>Neúplné informace</value>
+  </data>
+  <data name="Live" xml:space="preserve">
+    <value>Živé</value>
+  </data>
+  <data name="LiveLangs" xml:space="preserve">
+    <value>živé jazykové verze</value>
+  </data>
+  <data name="ReadyToSubmit" xml:space="preserve">
+    <value>Připraveno k odeslání</value>
+  </data>
+  <data name="TotalDownloads" xml:space="preserve">
+    <value>Celkový počet stažení všech živých jazykových verzí pro všechny operační systémy</value>
+  </data>
+  <data name="TotalDownloads_BrowserApp" xml:space="preserve">
+    <value>Celkový počet stažení všech živých jazykových verzí</value>
+  </data>
+  <data name="OverallAppStatus" xml:space="preserve">
+    <value>Stav aplikace</value>
+  </data>
+  <data name="DetailsOfTheApp" xml:space="preserve">
+    <value>Detaily o aplikaci</value>
+  </data>
+  <data name="DisplayLanguageNotice" xml:space="preserve">
+    <value>Jazyk zobrazení pro tuto stránku byl vybrán na základně nastavení vašeho účtu Autodesk.</value>
+  </data>
+  <data name="PublishedListNotice" xml:space="preserve">
+    <value>Aplikace se zobrazí jako publikovaná, pokud je živá alespoň jedna z jejích jazykových verzi pro nějaký operační systém.</value>
+  </data>
+  <data name="SubmissionNotification1" xml:space="preserve">
+    <value>Odesílaná aplikace zahrnuje všechny jazykové verze.</value>
+  </data>
+  <data name="SubmissionNotification2" xml:space="preserve">
+    <value>Aplikaci nelze odeslat, pokud pro některou jazykovou verzi byly zadány neúplné informace nebo pokud po odeslání nebyly provedeny žádné změny.</value>
+  </data>
+  <data name="UnpublishNotification1" xml:space="preserve">
+    <value>Tato akce vrátí všechny jazykové verze aplikace pro všechny operační systémy do stavu konceptu.</value>
+  </data>
+  <data name="UnpublishNotification1_BrowserApp" xml:space="preserve">
+    <value>Tímto se všechny jazykové verze aplikace vrátí zpět do stavu konceptu.</value>
+  </data>
+  <data name="UnpublishNotification2" xml:space="preserve">
+    <value>Před novým publikováním bude nutné aplikaci znovu schválit.</value>
+  </data>
+  <data name="CancelAllConditions" xml:space="preserve">
+    <value>Zrušit všechny podmínky</value>
+  </data>
+  <data name="AppFileError" xml:space="preserve">
+    <value>Chyba v souboru aplikace</value>
+  </data>
+  <data name="AppLogoError" xml:space="preserve">
+    <value>Chyba v logu aplikace.</value>
+  </data>
+  <data name="AppNameError" xml:space="preserve">
+    <value>Chyba v názvu aplikace.</value>
+  </data>
+  <data name="CompanyNameError" xml:space="preserve">
+    <value>Chyba v názvu společnosti.</value>
+  </data>
+  <data name="ExchangeCategoryError" xml:space="preserve">
+    <value>Chyba v kategorii aplikace Autodesk Exchange.</value>
+  </data>
+  <data name="PriceError" xml:space="preserve">
+    <value>Chybná cena.</value>
+  </data>
+  <data name="ProdCompatibilityError" xml:space="preserve">
+    <value>Chyba v kompatibilitě produktu Autodesk.</value>
+  </data>
+  <data name="SupportEmailError" xml:space="preserve">
+    <value>Chyba v e-mailu pro podporu.</value>
+  </data>
+  <data name="AdobeFlashPlayer" xml:space="preserve">
+    <value>Adobe Flash Player</value>
+  </data>
+  <data name="PromptInstallFlashDescription" xml:space="preserve">
+    <value>Je třeba nainstalovat {0}, aby bylo možné povolit odesílání souboru.</value>
+  </data>
+  <data name="PublisherDownloadDes" xml:space="preserve">
+    <value>Máte oprávnění ke stažení této aplikace, protože jste vydavatel aplikace. Poznámka: akce stažení nebude zaznamenána.</value>
+  </data>
+  <data name="SuperAccountDownloadDes" xml:space="preserve">
+    <value>Máte oprávnění ke stažení této aplikace, protože používáte účet administrátora. Poznámka: akce stažení nebude zaznamenána.</value>
+  </data>
+  <data name="InputCanNotBeLongerThan1000Characters" xml:space="preserve">
+    <value>Vstup nesmí být delší než 1000 znaků.</value>
+  </data>
+  <data name="InputCanNotBeLongerThan2000Characters" xml:space="preserve">
+    <value>Vstup nesmí být delší než 2000 znaků.</value>
+  </data>
+  <data name="PublisherDownloadFreeNotification" xml:space="preserve">
+    <value>Poznámka: Na stažení této aplikace máte nárok proto, že jste jejím vydavatelem. Akce stažení nebude zaznamenána.</value>
+  </data>
+  <data name="SelectOS" xml:space="preserve">
+    <value>Vyberte operační systém.</value>
+  </data>
+  <data name="OS" xml:space="preserve">
+    <value>Operační systém</value>
+  </data>
+  <data name="OSLanguageSelectorTitle" xml:space="preserve">
+    <value>Jaký operační systém a jazyk vaše aplikace podporuje?</value>
+  </data>
+  <data name="SelectOSandLanguage" xml:space="preserve">
+    <value>Vyberte operační systém a jazyk.</value>
+  </data>
+  <data name="PleaseSelectLanguage" xml:space="preserve">
+    <value>Vybrat...</value>
+  </data>
+  <data name="Win32and64" xml:space="preserve">
+    <value>Win32 a 64</value>
+  </data>
+  <data name="Product" xml:space="preserve">
+    <value>Produkt</value>
+  </data>
+  <data name="Version" xml:space="preserve">
+    <value>Verze</value>
+  </data>
+  <data name="CompatibilityDescriptionForMac" xml:space="preserve">
+    <value>Následující informace platí pouze pro verze kompatibilní s Mac OS.</value>
+  </data>
+  <data name="CompatibilityDescriptionForLinux" xml:space="preserve">
+    <value>Následující informace platí pouze pro verze kompatibilní se systémem Linux.</value>
+  </data>
+  <data name="CompatibilityDescriptionForWin" xml:space="preserve">
+    <value>Následující informace platí pouze pro verze kompatibilní se systémem Windows.</value>
+  </data>
+  <data name="HeroImageDes_fusion" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro Autodesk Fusion 360 byla vytvořena komunitou pro komunitu a pomůže vám přizpůsobit váš software tak, aby vyhovoval vašim jedinečným a specifickým požadavkům v oblasti návrhu.</value>
+  </data>
+  <data name="HeroImageTitle_fusion" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro Autodesk Fusion 360&lt;sup&gt;TM&lt;/sup&gt;</value>
+  </data>
+  <data name="ProductLastUpdatedDate" xml:space="preserve">
+    <value>Naposledy aktualizováno:</value>
+  </data>
+  <data name="CertificationExplanation" xml:space="preserve">
+    <value>V současné době je tato certifikace platná pouze pro aplikace Inventor, Vault a Simulation. Další informace získáte kliknutím &lt;a href="http://usa.autodesk.com/adsk/servlet/index?id=21599809&amp;siteID=123112" target="_blank"&gt;sem&lt;/a&gt;. Pokud vyberete nějakou certifikaci, kterou jste dosud nezískali, aplikace bude odmítnuta.</value>
+  </data>
+  <data name="CertificationTitle" xml:space="preserve">
+    <value>Certifikace</value>
+  </data>
+  <data name="ReadHelpDoc" xml:space="preserve">
+    <value>Přečíst si dokument nápovědy</value>
+  </data>
+  <data name="SupportInformation" xml:space="preserve">
+    <value>Informace o podpoře</value>
+  </data>
+  <data name="VersionHistory" xml:space="preserve">
+    <value>Historie verzí</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+  <data name="HelpDocument" xml:space="preserve">
+    <value>Dokument nápovědy</value>
+  </data>
+  <data name="AuthorCompanyInformationError" xml:space="preserve">
+    <value>Vyskytla se chyba v informacích o autorovi nebo společnosti.</value>
+  </data>
+  <data name="InstallationUninstallationError" xml:space="preserve">
+    <value>Vyskytla se chyba v informacích o instalaci nebo odinstalaci.</value>
+  </data>
+  <data name="SupportInformationError" xml:space="preserve">
+    <value>Vyskytla se chyba v informacích o podpoře.</value>
+  </data>
+  <data name="UsageDescriptionError" xml:space="preserve">
+    <value>Vyskytla se chyba v obecných pokynech k použití.</value>
+  </data>
+  <data name="VersionListError" xml:space="preserve">
+    <value>Vyskytla se chyba v seznamu verzí.</value>
+  </data>
+  <data name="Country" xml:space="preserve">
+    <value>Země</value>
+  </data>
+  <data name="InformationNotAvailable" xml:space="preserve">
+    <value>Není poskytnuto uživatelem</value>
+  </data>
+  <data name="NoChargeForAdditionalDownloadsNotice" xml:space="preserve">
+    <value>Poznámka: Tato položka ke stažení je od zákazníka, který si dříve zakoupil vaši aplikaci. Toto další stažení mu nebylo účtováno.</value>
+  </data>
+  <data name="VersionCompatibilityFacet" xml:space="preserve">
+    <value>Kompatibilita verzí</value>
+  </data>
+  <data name="SubscriberBenefitAllSubscriptions" xml:space="preserve">
+    <value>Tato aplikace je pro všechna předplatná Autodesk Subscription zdarma.</value>
+  </data>
+  <data name="SubscriberOnlyAllSubscriptions" xml:space="preserve">
+    <value>Tato aplikace je k dispozici pro všechna předplatná Autodesk Subscription.</value>
+  </data>
+  <data name="ItemDetail" xml:space="preserve">
+    <value>Podrobnosti o položce</value>
+  </data>
+  <data name="ShowAllApps" xml:space="preserve">
+    <value>Zobrazit všechny aplikace</value>
+  </data>
+  <data name="IPNDescription" xml:space="preserve">
+    <value>Okamžité oznamování plateb (IPN) je služba zasílání zpráv, která vás automaticky upozorňuje na události týkající se transakcí na účtu PayPal.</value>
+  </data>
+  <data name="IPNTitle" xml:space="preserve">
+    <value>Okamžité oznamování plateb PayPal</value>
+  </data>
+  <data name="ActiveIPNs" xml:space="preserve">
+    <value>Aktivní IPN</value>
+  </data>
+  <data name="EnterIPNListionerURL" xml:space="preserve">
+    <value>Zadejte adresu URL programu listener služby IPN:</value>
+  </data>
+  <data name="IPNFunction" xml:space="preserve">
+    <value>Můžete je použít k automatizaci interních a administrativních funkcí, jako je plnění objednávek a poskytování informací o stavu objednávky zákazníkům.</value>
+  </data>
+  <data name="New" xml:space="preserve">
+    <value>Novinka</value>
+  </data>
+  <data name="NoteOfIPNContent" xml:space="preserve">
+    <value>Pokud chcete povolit okamžité oznamování plateb, musíte mít u svého účtu aktivovaný účet PayPal.</value>
+  </data>
+  <data name="NoteOfIPNTitle" xml:space="preserve">
+    <value>Poznámka:</value>
+  </data>
+  <data name="WhatIsIPN" xml:space="preserve">
+    <value>Co je adresa URL programu listener okamžitého oznamování plateb?</value>
+  </data>
+  <data name="Active" xml:space="preserve">
+    <value>Aktivní</value>
+  </data>
+  <data name="DisableIPN" xml:space="preserve">
+    <value>Zakázat okamžité oznamování plateb</value>
+  </data>
+  <data name="EditIPN" xml:space="preserve">
+    <value>Upravit adresu URL okamžitého oznamování plateb</value>
+  </data>
+  <data name="Inactive" xml:space="preserve">
+    <value>Neaktivní</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Uložit</value>
+  </data>
+  <data name="YourIPNListener" xml:space="preserve">
+    <value>Adresa URL procesu listener služby IPN:</value>
+  </data>
+  <data name="IPN" xml:space="preserve">
+    <value>Okamžité oznamování plateb</value>
+  </data>
+  <data name="ChangeStore" xml:space="preserve">
+    <value>Změnit obchod</value>
+  </data>
+  <data name="NotificationSettings" xml:space="preserve">
+    <value>Nastavení oznamování</value>
+  </data>
+  <data name="PublisherDailyEmailBody" xml:space="preserve">
+    <value>Vážená paní / vážený pane {0},&lt;br/&gt;Váš produkt ({2}) byl stažen z webu Autodesk Exchange Apps &amp;lt;{3}&amp;gt;.&lt;br/&gt;&lt;br/&gt;Zde jsou informace o uživateli:&lt;br/&gt;E-mail: ({4})&lt;br/&gt;Jméno a příjmení: {5}&lt;br/&gt;Funkce: {6}&lt;br/&gt;Název společnosti: {7}&lt;br/&gt;Země: {8}&lt;br/&gt;Počet zakoupených kopií: {9}&lt;br/&gt;&lt;b&gt;{10}&lt;/b&gt;</value>
+  </data>
+  <data name="PublisherEmailSuffix" xml:space="preserve">
+    <value>&lt;p&gt;Tyto informace o uživateli jsou vám poskytovány pouze pro účely dokumentace, zákaznické podpory koncových uživatelů a záruk. Jako vydavatel máte výhradní zodpovědnost za stanovení toho, jaká komunikace (provozní a/nebo komerční) s tímto koncovým uživatelem je vhodná v souladu s příslušnými zákony a předpisy o ochraně soukromí a osobních údajů.&lt;/p&gt;Tým Autodesk Exchange</value>
+  </data>
+  <data name="PublisherEmailTitle" xml:space="preserve">
+    <value>Váš produkt ({0}) byl stažen z webu Autodesk Exchange Apps &amp;lt;{1}&amp;gt;.</value>
+  </data>
+  <data name="BrowserAppDes" xml:space="preserve">
+    <value>Aplikace (Pro prohlížeč je nutné nastavit službu IPN, aby bylo možné publikovat aplikaci v tomto typu.)</value>
+  </data>
+  <data name="BrowserAppLanguageSelectorDesc" xml:space="preserve">
+    <value>Po publikování této jazykové verze aplikace můžete přidat další jazykové verze.</value>
+  </data>
+  <data name="DesptopAppDes" xml:space="preserve">
+    <value>Aplikace (pro klasickou pracovní plochu)</value>
+  </data>
+  <data name="AppUrl" xml:space="preserve">
+    <value>Adresa URL webové služby</value>
+  </data>
+  <data name="AppUrlDescExplanation" xml:space="preserve">
+    <value>Adresa URL pro webovou službu</value>
+  </data>
+  <data name="AppUrlError" xml:space="preserve">
+    <value>V adrese URL aplikace se vyskytla chyba.</value>
+  </data>
+  <data name="CommentPendingReviewed" xml:space="preserve">
+    <value>Váš komentář čeká na kontrolu.</value>
+  </data>
+  <data name="PublishedAfterApproval" xml:space="preserve">
+    <value>Bude publikován po schválení.</value>
+  </data>
+  <data name="PublishedToReplaceAfterApproval" xml:space="preserve">
+    <value>Po schválení bude publikován a nahradí starý komentář.</value>
+  </data>
+  <data name="WantToDeleteComment" xml:space="preserve">
+    <value>Opravdu chcete odstranit tento komentář?</value>
+  </data>
+  <data name="WriteAComment" xml:space="preserve">
+    <value>Odpovědět</value>
+  </data>
+  <data name="OpenLink" xml:space="preserve">
+    <value>Otevřít odkaz</value>
+  </data>
+  <data name="CommentRejectedSubmitAgain" xml:space="preserve">
+    <value>Váš komentář byl odmítnut, upravte jej a odešlete znovu.</value>
+  </data>
+  <data name="Clone" xml:space="preserve">
+    <value>Klonovat</value>
+  </data>
+  <data name="LanguageSelectorTitle" xml:space="preserve">
+    <value>Jaký jazyk aplikace podporuje?</value>
+  </data>
+  <data name="GoTop" xml:space="preserve">
+    <value>Přejít nahoru</value>
+  </data>
+  <data name="ReleaseDate" xml:space="preserve">
+    <value>Datum</value>
+  </data>
+  <data name="ResultPerPage" xml:space="preserve">
+    <value>výsledek na stránku</value>
+  </data>
+  <data name="WelcomeTo" xml:space="preserve">
+    <value>Vítá vás {0}</value>
+  </data>
+  <data name="BecomeSubscriptionCustomer" xml:space="preserve">
+    <value>Staňte se zákazníkem služby Autodesk Subscription a stáhněte si tuto aplikaci.</value>
+  </data>
+  <data name="BecomeSubscriptionCustomerDescription" xml:space="preserve">
+    <value>Tuto aplikaci mohou stáhnout pouze zákazníci služby Autodesk Subscription. Další podrobnosti najdete na &lt;a href="http://subscription.autodesk.com" id="SubscriptionCenterHyperLink" target="_blank"&gt;portálu Autodesk Subscription&lt;/a&gt;.</value>
+  </data>
+  <data name="CopiesPurchased" xml:space="preserve">
+    <value>Zakoupeno kopií</value>
+  </data>
+  <data name="PaymentNotSuccess" xml:space="preserve">
+    <value>Transakce je službou PayPal stále zpracovávána. Zkuste se na tuto stránku vrátit později a znovu ověřit, zda jsme přijali platbu. Pokud problém potrvá, vyhledejte &lt;a  target="_blank" href="/Public/FAQ#payment_issues_desc" style="color:blue;"&gt;rady na stránce Časté dotazy&lt;/a&gt;. Mezitím si můžete dál prohlížet a nakupovat další aplikace.</value>
+  </data>
+  <data name="PaymentSuccess" xml:space="preserve">
+    <value>Vaše transakce byla úspěšně dokončena. Podrobnosti o vaší objednávce:</value>
+  </data>
+  <data name="PruchaseMore" xml:space="preserve">
+    <value>Zakoupit více kopií</value>
+  </data>
+  <data name="QtyPruchased" xml:space="preserve">
+    <value>Zakoupené množství</value>
+  </data>
+  <data name="QtyToPurchase" xml:space="preserve">
+    <value>Množství ke koupi</value>
+  </data>
+  <data name="UnitPrice" xml:space="preserve">
+    <value>Jednotková cena</value>
+  </data>
+  <data name="MaximumPurchaseQty" xml:space="preserve">
+    <value>Maximální počet kopií: {0}</value>
+  </data>
+  <data name="Purchase" xml:space="preserve">
+    <value>Koupit</value>
+  </data>
+  <data name="SubTotal" xml:space="preserve">
+    <value>Součet</value>
+  </data>
+  <data name="HeroImageDes_navis" xml:space="preserve">
+    <value>Služba Autodesk Exchange Apps pro aplikaci Autodesk Navisworks byla vytvořena komunitou pro komunitu a pomůže vám získat lepší kontrolu nad výsledky projektů.</value>
+  </data>
+  <data name="HeroImageTitle_navis" xml:space="preserve">
+    <value>Vítejte ve službě Autodesk Exchange pro aplikaci Autodesk&lt;sup&gt;®&lt;/sup&gt; Navisworks&lt;sup&gt;®&lt;/sup&gt;</value>
+  </data>
+  <data name="MonthlyMoneyValue" xml:space="preserve">
+    <value>Měsíčně opakované předplatné (USD)</value>
+  </data>
+  <data name="Day" xml:space="preserve">
+    <value>Den</value>
+  </data>
+  <data name="Hour" xml:space="preserve">
+    <value>Hodina</value>
+  </data>
+  <data name="Minute" xml:space="preserve">
+    <value>Minuta</value>
+  </data>
+  <data name="Month" xml:space="preserve">
+    <value>Měsíc</value>
+  </data>
+  <data name="Week" xml:space="preserve">
+    <value>Týden</value>
+  </data>
+  <data name="Year" xml:space="preserve">
+    <value>Rok</value>
+  </data>
+  <data name="ADSKLogin" xml:space="preserve">
+    <value>Přihlášení pomocí účtu Autodesk</value>
+  </data>
+  <data name="AppLoginDesc" xml:space="preserve">
+    <value>Typ přihlášení pro uživatele využívající webové služby</value>
+  </data>
+  <data name="AppLoginType" xml:space="preserve">
+    <value>Typ přihlášení</value>
+  </data>
+  <data name="NoLogin" xml:space="preserve">
+    <value>Není vyžadováno žádné přihlášení.</value>
+  </data>
+  <data name="ThirdPartyLogin" xml:space="preserve">
+    <value>Přihlášení pomocí účtu webových služeb</value>
+  </data>
+  <data name="HowToCancelSubscription" xml:space="preserve">
+    <value>Chcete-li zjistit, jak zrušit předplatné, přejděte na stránku Časté dotazy.</value>
+  </data>
+  <data name="WebServicesEmailSentDesc" xml:space="preserve">
+    <value>Vaše transakce byla úspěšně dokončena. Název účtu a heslo pro {0} budou poslány e-mailem na adresu {1}. Pokud e-mail neobdržíte, &lt;a href="mailto:appsinfo@autodesk.com"&gt;kontaktujte nás&lt;/a&gt;.</value>
+  </data>
+  <data name="SubscriptionCancellationBodyToPublisher" xml:space="preserve">
+    <value>Vážený pane, vážená paní {0},&lt;br/&gt;&lt;br/&gt;Uživatel {1} zrušil předplatné pro {2}.&lt;br/&gt; Pokud máte jakékoli problémy nebo dotazy týkající se aplikace Autodesk Exchange Apps, obraťte se na &lt;a href="mailto:appsinfo@autodesk.com"&gt;appsinfo@autodesk.com&lt;a/&gt;. &lt;br/&gt;&lt;br/&gt;S pozdravem&lt;br/&gt;Tým služby Autodesk Exchange.</value>
+  </data>
+  <data name="SubscriptionCancellationBodyToSubscriber" xml:space="preserve">
+    <value>Vážený pane, vážená paní {0},&lt;br/&gt;&lt;br/&gt;Zrušili jste předplatné pro {1}. Vaše předplatné bude stále dostupné až do data splatnosti.&lt;br/&gt;Pokud máte jakékoli problémy nebo dotazy týkající se aplikace Autodesk Exchange Apps, obraťte se na &lt;a href="mailto:appsinfo@autodesk.com"&gt;appsinfo@autodesk.com&lt;a/&gt;. &lt;br/&gt;&lt;br/&gt;S pozdravem&lt;br/&gt;Tým služby Autodesk Exchange.</value>
+  </data>
+  <data name="SubscriptionCancellationSubject" xml:space="preserve">
+    <value>Zrušení předplatného pro {0}</value>
+  </data>
+  <data name="Action" xml:space="preserve">
+    <value>Akce</value>
+  </data>
+  <data name="Subscriber" xml:space="preserve">
+    <value>Předplatitel</value>
+  </data>
+  <data name="NoSignInRequired" xml:space="preserve">
+    <value>Není vyžadováno žádné přihlášení.</value>
+  </data>
+  <data name="SignInRequired" xml:space="preserve">
+    <value>Je vyžadováno přihlášení.</value>
+  </data>
+  <data name="PurchaseWaitHint" xml:space="preserve">
+    <value>Vaše transakce se zpracovává. Čeká se na PayPal...</value>
+  </data>
+  <data name="WebServicesLoginADSKDesc" xml:space="preserve">
+    <value>Vaše transakce byla úspěšně dokončena. Přihlaste se k {0} pomocí vašeho účtu Autodesk. V případě problémů s přihlášením &lt;a href="mailto:appsinfo@autodesk.com"&gt;nás kontaktujte&lt;/a&gt;.</value>
+  </data>
+  <data name="Subscribe" xml:space="preserve">
+    <value>Přihlásit k odběru</value>
+  </data>
+  <data name="ErrorPageContactUs" xml:space="preserve">
+    <value>Pokud problém přetrvává, kontaktujte nás na adrese &lt;a href="mailto:{0}"&gt;{1}&lt;/a&gt;.</value>
+  </data>
+  <data name="RefreshPage" xml:space="preserve">
+    <value>Obnovte stránku nebo to zkuste později znovu. </value>
+  </data>
+  <data name="ServerErrorOccur" xml:space="preserve">
+    <value>Server je nedostupný nebo došlo k chybě. Aktualizujte tuto stránku nebo to zkuste znovu později. Omlouváme se za případné potíže.&lt;br/&gt;Pokud problém potrvá, kontaktujte nás na adrese &lt;a href='mailto:appsinfo@autodesk.com'&gt;appsinfo@autodesk.com&lt;/a&gt;.</value>
+  </data>
+  <data name="WeApologize" xml:space="preserve">
+    <value>Omlouváme se za nepříjemnosti.</value>
+  </data>
+  <data name="WeAreSorry" xml:space="preserve">
+    <value>Omlouváme se.</value>
+  </data>
+  <data name="OnlyShowAppsOfLocalizedLanguage" xml:space="preserve">
+    <value>Zobrazit pouze aplikace v jazyce: {0}</value>
+  </data>
+  <data name="PaymentFinishEmailBody" xml:space="preserve">
+    <value>Vážená paní / vážený pane {0},&lt;br/&gt;&lt;br/&gt;Váš produkt ({1}) byl zakoupen prostřednictvím služby Autodesk Exchange Apps.&lt;br/&gt;&lt;br/&gt;Zde jsou informace o uživateli:&lt;br/&gt;&lt;br/&gt;E-mail: ({2})&lt;br/&gt;Jméno a příjmení: {3}&lt;br/&gt;Funkce: {4}&lt;br/&gt;Název společnosti: {5}&lt;br/&gt;Země: {6}&lt;br/&gt;Počet zakoupených kopií: {7}&lt;br/&gt;&lt;br/&gt;&lt;p&gt;&lt;p&gt;&lt;br/&gt;Tyto informace vám byly zaslány pro účely dokumentace, podpory koncových uživatelů a záruky. Jako vydavatel nesete výhradní zodpovědnost za určení, jaká komunikace (provozní a obchodní) je s tímto koncovým uživatelem vhodná v souladu s příslušnými zákony a směrnicemi na ochranu soukromí/osobních údajů.&lt;/p&gt;&lt;br/&gt;Tým služby Autodesk Exchange</value>
+  </data>
+  <data name="PaymentFinishEmailSubject" xml:space="preserve">
+    <value>Váš produkt ({0}) byl zakoupen prostřednictvím služby Autodesk Exchange Apps.</value>
+  </data>
+  <data name="ServerErrorNoPath" xml:space="preserve">
+    <value>Stránku nelze najít.&lt;br/&gt;Zkontrolujte adresu URL nebo nás kontaktujte na adrese &lt;a href='mailto:exchange.apps.response.team@autodesk.com'&gt;exchange.apps.response.team@autodesk.com&lt;/a&gt;.</value>
+  </data>
+  <data name="TermbasePayementLockNotice" xml:space="preserve">
+    <value>Jakmile vyberete možnost Měsíčně opakované předplatné (USD), typ platby už nebude možné změnit.</value>
+  </data>
+  <data name="AppAutoPublishedEmailMessage" xml:space="preserve">
+    <value>Zdraví vás tým Autodesk Exchange!&lt;br/&gt;&lt;br/&gt;Úprava aplikace {0} odeslaná uživatelem {1} byla publikována.&lt;br/&gt;Zde je odkaz: {2}</value>
+  </data>
+  <data name="AppAutoPublishedEmailSuject" xml:space="preserve">
+    <value>Úprava aplikace {0} od uživatele {1} byla publikována</value>
+  </data>
+  <data name="AppAutoPublishedUserEmailMessage" xml:space="preserve">
+    <value>Vážená paní / vážený pane {0},&lt;br/&gt;&lt;br/&gt;Vaše úprava aplikace {1} byla publikována.&lt;br/&gt;Zde je odkaz: {2}</value>
+  </data>
+  <data name="AppAutoPublishedUserEmailSuject" xml:space="preserve">
+    <value>Vaše úprava aplikace {0} byla publikována.</value>
+  </data>
+  <data name="MonthlyPaymentSuccess" xml:space="preserve">
+    <value>Vaše transakce byla úspěšně dokončena.</value>
+  </data>
+  <data name="StaticsOfApps" xml:space="preserve">
+    <value>NAJÍT DALŠÍ STATISTIKY</value>
+  </data>
+  <data name="StaticsOfAppsDownloads" xml:space="preserve">
+    <value>JEDINEČNÁ STAŽENÍ SOUBORŮ – POSLEDNÍCH 30 DNÍ</value>
+  </data>
+  <data name="StaticsOfAppsPageView" xml:space="preserve">
+    <value>ZOBRAZENÍ WEBOVÝCH STRÁNEK – POSLEDNÍCH 30 DNÍ</value>
+  </data>
+  <data name="StaticsOfAppsVisitor" xml:space="preserve">
+    <value>NÁVŠTĚVNÍCI – POSLEDNÍCH 30 DNÍ</value>
+  </data>
+  <data name="GetTechnicalHelp" xml:space="preserve">
+    <value>Získat technickou pomoc</value>
+  </data>
+  <data name="VerifiedDownload" xml:space="preserve">
+    <value>Ověřené stažení</value>
+  </data>
+  <data name="VerifiedDownloadReviews" xml:space="preserve">
+    <value>Recenze s ověřeným stažením</value>
+  </data>
+  <data name="VerifiedDownloadReviewsDescription1" xml:space="preserve">
+    <value>Pokud je u recenze produktu označení Autodesk Exchange – Ověřené stažení, znamená to, že zákazník, který recenzi napsal, si stáhl danou aplikaci z webu apps.exchange.autodesk.com nebo si na něm pořídil předplatné dané webové služby. Zákazníci si tento popisek mohou k recenzi přidat pouze v případě, že můžeme ověřit, že daná položka byla stažena z webu apps.exchange.autodesk.com. Zákazníci, kteří si budou číst recenzi s označením Autodesk Exchange – Ověřené stažení, mohou na základě těchto informací posoudit užitečnost jednotlivých recenzí pro jejich rozhodování o nákupu.</value>
+  </data>
+  <data name="VerifiedDownloadReviewsDescription2" xml:space="preserve">
+    <value>Pokud u recenze není označení Autodesk Exchange – Ověřené stažení, neznamená to, že recenzent nemá s produktem žádné zkušenosti – znamená to jen, že jsme nemohli ověřit, zda si daný produkt koupil na webu apps.exchange.autodesk.com. Mohl si jej ale koupit jinde nebo s ním získat zkušenosti nějakým jiným způsobem. Pokud bychom nějakým způsobem mohli ověřit jeho zkušenosti s produktem, určitě bychom to udělali. Popisek Autodesk Exchange – Ověřené stažení u recenzí představuje jeden z kroků, kterými se snažíme vylepšit kvalitu a relevantnost recenzí produktů.</value>
+  </data>
+  <data name="WhatsAutodeskVerifiedDownload" xml:space="preserve">
+    <value>Co znamená označení Autodesk Exchange – Ověřené stažení u recenze?</value>
+  </data>
+  <data name="Whatsthis" xml:space="preserve">
+    <value>Co je to?</value>
+  </data>
+  <data name="SubmitWithAutopublishSuccess" xml:space="preserve">
+    <value>Vaše aplikace byla aktualizována – vaše úpravy byly publikovány.</value>
+  </data>
+  <data name="PublisherReceiverCommentNotificationBody" xml:space="preserve">
+    <value>Vážená paní / vážený pane {0},&lt;br/&gt;&lt;br/&gt;{1} odpověděl(a) na hodnocení zákazníků aplikace {2}:&lt;br/&gt;„{3}“.&lt;br/&gt;&lt;a href="{4}"&gt;Přejít na stránku podrobností aplikace&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Tým služby Autodesk Exchange Apps</value>
+  </data>
+  <data name="PublisherReceiverCommentNotificationTitle" xml:space="preserve">
+    <value>Byla publikována odpověď na hodnocení zákazníků aplikace {0}.</value>
+  </data>
+  <data name="PublisherReceiverReviewNotificationBody" xml:space="preserve">
+    <value>Vážená paní / vážený pane {0},&lt;br/&gt;&lt;br/&gt;Obdrželi jste hodnocení aplikace {1} od zákazníka {2}:&lt;br/&gt;„&lt;b&gt;{3}&lt;/b&gt;&lt;br/&gt;{4}“&lt;br/&gt;&lt;a href="{5}"&gt;Přejít na stránku podrobností aplikace a zobrazit další hodnocení zákazníků&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Tým služby Autodesk Exchange Apps</value>
+  </data>
+  <data name="PublisherReceiverReviewNotificationTitle" xml:space="preserve">
+    <value>Obdrželi jste hodnocení zákazníků aplikace {0}.</value>
+  </data>
+  <data name="ReviewerReceiverCommentNotificationBody" xml:space="preserve">
+    <value>Vážená paní / vážený pane {0},&lt;br/&gt;&lt;br/&gt;{1} odpověděl(a) na vaše hodnocení aplikace {2}:&lt;br/&gt;„{3}“.&lt;br/&gt;&lt;a href="{4}"&gt;Přejít na stránku podrobností aplikace&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Tým služby Autodesk Exchange Apps</value>
+  </data>
+  <data name="ReviewerReceiverCommentNotificationTitle" xml:space="preserve">
+    <value>K vašemu hodnocení aplikace {0} byla publikována odpověď.</value>
+  </data>
+  <data name="NewAppSubmittedUserEmailMessage" xml:space="preserve">
+    <value>Vážená paní / vážený pane {0},&lt;br/&gt;&lt;br/&gt;Děkujeme za odeslání aplikace {1} do služby Autodesk Exchange Apps. Aplikace bude zhodnocena a potom budete informováni.</value>
+  </data>
+  <data name="NewAppSubmittedUserEmailSuject" xml:space="preserve">
+    <value>Děkujeme za odesílání vaší aplikace do služby Autodesk Exchange Apps.</value>
+  </data>
+  <data name="Publisherdownloadrecords" xml:space="preserve">
+    <value>Záznamy o stahování</value>
+  </data>
+  <data name="GoTo" xml:space="preserve">
+    <value>Přejít k</value>
+  </data>
+  <data name="SelectProductStore" xml:space="preserve">
+    <value>Vyberte obchod pro produkt</value>
+  </data>
+  <data name="SignUpForFree" xml:space="preserve">
+    <value>Bezplatná registrace</value>
+  </data>
+  <data name="DownloadRecordsEmailBody" xml:space="preserve">
+    <value>Vážená paní / vážený pane {0}, &lt;br/&gt;&lt;br/&gt;V příloze najdete zprávu o stahování všech vašich aplikací ve službě Autodesk Exchange Apps.&lt;br/&gt;&lt;br/&gt;Tým služby Autodesk Exchange Apps</value>
+  </data>
+  <data name="DownloadRecordsEmailTitle" xml:space="preserve">
+    <value>Záznamy o stahování ve službě Autodesk Exchange Apps</value>
+  </data>
+  <data name="NoShortDescription" xml:space="preserve">
+    <value>Bez stručného popisu</value>
+  </data>
+  <data name="AddButtonExplaination" xml:space="preserve">
+    <value>Tím bude schváleno oprávnění příslušného uživatele stáhnout tuto aplikaci v určitém množství.</value>
+  </data>
+  <data name="col_Copies" xml:space="preserve">
+    <value>Kopie</value>
+  </data>
+  <data name="col_DateAdded" xml:space="preserve">
+    <value>Datum</value>
+  </data>
+  <data name="col_UserEmail" xml:space="preserve">
+    <value>E-mail uživatele</value>
+  </data>
+  <data name="Entitlements" xml:space="preserve">
+    <value>oprávnění</value>
+  </data>
+  <data name="NoteOfPublisherEntitlement" xml:space="preserve">
+    <value>Poznámka: Tento seznam zobrazuje pouze oprávnění přidaná vydavatelem.</value>
+  </data>
+  <data name="EntitlementTab" xml:space="preserve">
+    <value>Správa oprávnění ke stažení</value>
+  </data>
+  <data name="MonthlyPaid" xml:space="preserve">
+    <value>Placeno měsíčně</value>
+  </data>
+  <data name="SecurePaymentSupportedBy" xml:space="preserve">
+    <value>Zabezpečená platba pomocí</value>
+  </data>
+  <data name="PaymentPlatform" xml:space="preserve">
+    <value>Platební platforma</value>
+  </data>
+  <data name="PaymentPlatformBs" xml:space="preserve">
+    <value>BlueSnap (doporučeno)</value>
+  </data>
+  <data name="PaymentPlatformBsDesc" xml:space="preserve">
+    <value>Podporuje 180 zemí, 110 způsobů platby, 60 měn a 29 jazyků. &lt;a target="_blank" href="/Public/BlueSnapGuide"&gt;Jak nastavit službu BlueSnap jako platební bránu?&lt;/a&gt;</value>
+  </data>
+  <data name="PaymentPlatformBsPoDesc" xml:space="preserve">
+    <value>U nákupu provedeného prostřednictvím nákupní objednávky chci:</value>
+  </data>
+  <data name="PaymentPlatformBsPoOP1" xml:space="preserve">
+    <value>Zkontrolovat nákupní objednávku a provést transakci ručně.</value>
+  </data>
+  <data name="PaymentPlatformBsPoOP1Desc" xml:space="preserve">
+    <value>Kupující nemůže stáhnout vaši aplikaci, dokud neschválíte nákupní objednávku.</value>
+  </data>
+  <data name="PaymentPlatformBsPoOP2" xml:space="preserve">
+    <value>Povolit automaticky oprávnění ke stažení.</value>
+  </data>
+  <data name="PaymentPlatformBsPoOP2Desc" xml:space="preserve">
+    <value>Kupující může stáhnout aplikaci po zadání nákupní objednávky. Stahování aplikace můžete pro kupujícího vypnout později, pokud nedojde k vypořádání transakce.</value>
+  </data>
+  <data name="PaymentPlatformBsUrl" xml:space="preserve">
+    <value>Adresa URL tlačítka pro nákup</value>
+  </data>
+  <data name="PaymentPlatformBsUrlDesc" xml:space="preserve">
+    <value>&lt;a target="_blank" href="/Public/BlueSnapGuide#payment_bs_buynow"&gt;Kde je adresa URL stránky BuyNow?&lt;/a&gt;  </value>
+  </data>
+  <data name="PaymentPlatformBsUrlError" xml:space="preserve">
+    <value>Chyba v adrese URL tlačítka pro nákup.</value>
+  </data>
+  <data name="PaymentPlatformPp" xml:space="preserve">
+    <value>PayPal</value>
+  </data>
+  <data name="BlueSnapPublisherGuideLine" xml:space="preserve">
+    <value>BlueSnap – pokyny pro vydavatele</value>
+  </data>
+  <data name="PaymentPlatformDS" xml:space="preserve">
+    <value>Vyberte platební platformu, pokud chcete publikovat placenou aplikaci.</value>
+  </data>
+  <data name="Approve" xml:space="preserve">
+    <value>Schválit</value>
+  </data>
+  <data name="MyApps" xml:space="preserve">
+    <value>Moje aplikace</value>
+  </data>
+  <data name="MyPOBSAccount" xml:space="preserve">
+    <value>Účet BlueSnap</value>
+  </data>
+  <data name="MyPOPrice" xml:space="preserve">
+    <value>Cena objednávky (celkem)</value>
+  </data>
+  <data name="MyPOQuantity" xml:space="preserve">
+    <value>Množství objednávky</value>
+  </data>
+  <data name="MyPOShopper" xml:space="preserve">
+    <value>Kupující (ID Autodesk)</value>
+  </data>
+  <data name="MyPOTime" xml:space="preserve">
+    <value>Čas objednávky</value>
+  </data>
+  <data name="MyPurchaseOrders" xml:space="preserve">
+    <value>Moje nákupní objednávky</value>
+  </data>
+  <data name="Reject" xml:space="preserve">
+    <value>Odmítnout</value>
+  </data>
+  <data name="Rejected" xml:space="preserve">
+    <value>Zamítnuto</value>
+  </data>
+  <data name="PaymentNotSuccessBS" xml:space="preserve">
+    <value>Transakce je službou BlueSnap stále zpracovávána. Zkuste se na tuto stránku vrátit později a znovu ověřit, zda jsme přijali platbu. Pokud problém potrvá, vyhledejte &lt;a  target="_blank" href="/Public/FAQ#payment_issues_desc" style="color:blue;"&gt;rady na stránce Časté dotazy&lt;/a&gt;. Mezitím si můžete dál prohlížet a nakupovat další aplikace.</value>
+  </data>
+  <data name="PaymentSuccessBSviaPO" xml:space="preserve">
+    <value>Úspěšně jste odeslali nákupní objednávku. Počkejte prosím na její schválení vydavatelem.</value>
+  </data>
+  <data name="SetProtectionKey" xml:space="preserve">
+    <value>Zadejte informace služby BlueSnap na stránce Moje odeslané soubory. </value>
+  </data>
+  <data name="SetPayPalAccount" xml:space="preserve">
+    <value>Nastavte účet PayPal.</value>
+  </data>
+  <data name="CloudAppsFilter" xml:space="preserve">
+    <value>Cloudové aplikace</value>
+  </data>
+  <data name="SubscriptionForEducationUsers" xml:space="preserve">
+    <value>Všechny aplikace dostupné v rámci výhod pro uživatele s předplatným Autodesk Subscription jsou nyní zdarma pro studenty, učitele a vzdělávací instituce! &lt;a target="_blank" href="http://knowledge.autodesk.com/topics/account-management/account-access/education-community-account"&gt;Vytvořit účet v komunitě pro vzdělávání&lt;/a&gt;</value>
+  </data>
+  <data name="SubscriptionForEducationUsersDownload" xml:space="preserve">
+    <value>Stažení zdarma pro uživatele v oblasti vzdělávání</value>
+  </data>
+  <data name="HomePageDesc" xml:space="preserve">
+    <value>Autodesk Exchange Apps je webový trh a služba společnosti Autodesk, která usnadňuje hledání a získávání rozšíření a modulů plug-in jiných výrobců, aplikací jiných společností, obsahu a výukových materiálů pro {0}. Můžete zde najít nejaktuálnější aplikace pro {1}.</value>
+  </data>
+  <data name="HomePageKeywords" xml:space="preserve">
+    <value>Autodesk App Store, Autodesk Exchange Apps, aplikace Autodesk, software Autodesk, modul plug-in, moduly plug-in, modul plug-in, doplněk, doplňky, doplněk, rozšíření, rozšíření, {0}</value>
+  </data>
+  <data name="SearchPageTitle" xml:space="preserve">
+    <value>{0}Modul plug-in, doplněk, rozšíření pro {1} | Autodesk Exchange Apps</value>
+  </data>
+  <data name="DownloadEntitlementGroup" xml:space="preserve">
+    <value>Skupina s nárokem ke stažení</value>
+  </data>
+  <data name="DownloadEntitlementGroupAdd" xml:space="preserve">
+    <value>Přidat skupinu</value>
+  </data>
+  <data name="DownloadEntitlementGroupDes" xml:space="preserve">
+    <value>Skupina s nárokem ke stažení vám umožňuje spojit s vaší aplikací nároky ke stažení.
+Zákazníci, kteří si zakoupí jakoukoli aplikaci ze skupiny s nárokem ke stažení, tím budou autorizováni ke stažení všech aplikací v dané skupině.</value>
+  </data>
+  <data name="DownloadEntitlementGroupName" xml:space="preserve">
+    <value>Název skupiny</value>
+  </data>
+  <data name="DownloadEntitlementGroupNew" xml:space="preserve">
+    <value>Nová skupina</value>
+  </data>
+  <data name="SharedEntitlementGroupFreeMsg" xml:space="preserve">
+    <value>Tuto aplikaci si můžete stáhnout zdarma. Tato výhoda je vám k dispozici, protože jste zakoupili aplikaci {0}.</value>
+  </data>
+  <data name="SharedEntitlementGroupBenefitMsg" xml:space="preserve">
+    <value>Protože jste zakoupili tuto aplikaci, můžete si v rámci výhod zdarma stáhnout následující aplikace. {0}</value>
+  </data>
+  <data name="SharedEntitlementGroupEmailMsg" xml:space="preserve">
+    <value>Toto stažení provedl zákazník, který zakoupil vaši aplikaci {0}. Zákazníkovi nebylo toto dodatečné stažení účtováno, protože k aplikaci {1} je vázán nárok ke stažení této položky.</value>
+  </data>
+  <data name="AppliedFilters" xml:space="preserve">
+    <value>Použité filtry</value>
+  </data>
+  <data name="ClearAll" xml:space="preserve">
+    <value>Zrušit vše</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Zavřít</value>
+  </data>
+  <data name="FilterYourSearch" xml:space="preserve">
+    <value>Filtrovat hledání</value>
+  </data>
+  <data name="FoundResultsMatching" xml:space="preserve">
+    <value>Nalezeno {0} výsledků pro {1}</value>
+  </data>
+  <data name="ItemsPerPage" xml:space="preserve">
+    <value>Položek na stránce</value>
+  </data>
+  <data name="NoneFilters" xml:space="preserve">
+    <value>Žádné</value>
+  </data>
+  <data name="Overall" xml:space="preserve">
+    <value>Celkem</value>
+  </data>
+  <data name="AppsOfSamePublisher" xml:space="preserve">
+    <value>Od stejného vydavatele</value>
+  </data>
+  <data name="ViewMore" xml:space="preserve">
+    <value>Zobrazit další</value>
+  </data>
+  <data name="BSAPICredentials" xml:space="preserve">
+    <value>BlueSnap API – přihlašovací údaje</value>
+  </data>
+  <data name="BSDataProtectionKey" xml:space="preserve">
+    <value>Ochrana dat – klíč</value>
+  </data>
+  <data name="BSEditSettings" xml:space="preserve">
+    <value>Upravit nastavení služby BlueSnap</value>
+  </data>
+  <data name="BSHowTo" xml:space="preserve">
+    <value>Zjistěte, jak publikovat aplikaci se službou BlueSnap.</value>
+  </data>
+  <data name="BSSubAccount" xml:space="preserve">
+    <value>Uživatelský účet BlueSnap pro službu Autodesk Exchange Apps</value>
+  </data>
+  <data name="BSSupports" xml:space="preserve">
+    <value>Podporuje 180 zemí, 110 typů plateb, 60 měn a 29 jazyků.</value>
+  </data>
+  <data name="NewPaymentGateway" xml:space="preserve">
+    <value>Nyní můžete publikovat placené aplikace pomocí naší nové platební brány.</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Heslo</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>Uživatelské jméno</value>
+  </data>
+  <data name="AboutDistributionURL" xml:space="preserve">
+    <value>Informace o distribuční adrese URL</value>
+  </data>
+  <data name="Consumed" xml:space="preserve">
+    <value>Spotřebované</value>
+  </data>
+  <data name="CopiesAvailable" xml:space="preserve">
+    <value>Počet dostupných kopií: {0}</value>
+  </data>
+  <data name="CopyURLtoClipboard" xml:space="preserve">
+    <value>Kopírovat adresu URL do schránky</value>
+  </data>
+  <data name="DistributionURL" xml:space="preserve">
+    <value>Distribuční adresa URL</value>
+  </data>
+  <data name="DistributionURLDescription" xml:space="preserve">
+    <value>Distribuční adresu URL aplikace lze příjemcům distribuovat prostřednictvím e-mailu nebo jiného kanálu. Jakmile příjemci dostanou e-mail o distribuci aplikace, mohou kliknutím na odkaz s touto adresou přejít na stránku podrobností o aplikaci a zdarma si aplikaci stáhnout. Kopie distribuované aplikace není považována za spotřebovanou, dokud si ji příjemce nestáhne. Tato adresa URL bude aktivní do té doby, než distributorovi nebude zbývat žádná kopie aplikace.</value>
+  </data>
+  <data name="HideDetails" xml:space="preserve">
+    <value>Skrýt detaily</value>
+  </data>
+  <data name="MoreActions" xml:space="preserve">
+    <value>Další akce</value>
+  </data>
+  <data name="Recipients" xml:space="preserve">
+    <value>Příjemci</value>
+  </data>
+  <data name="SendDistributionTemplate" xml:space="preserve">
+    <value>Odeslat mi distribuční šablonu</value>
+  </data>
+  <data name="TokenID" xml:space="preserve">
+    <value>ID tokenu</value>
+  </data>
+  <data name="TotalCopies" xml:space="preserve">
+    <value>Celkem kopií</value>
+  </data>
+  <data name="UtilizeDistributionURL" xml:space="preserve">
+    <value>Distribuovat kopie aplikace členům týmu pomocí distribuční adresy URL</value>
+  </data>
+  <data name="AppDistributionTemplate" xml:space="preserve">
+    <value>Šablona pro distribuci aplikace</value>
+  </data>
+  <data name="groupwidget_newapps" xml:space="preserve">
+    <value>Nové aplikace</value>
+  </data>
+  <data name="groupwidget_featuredcloudApps" xml:space="preserve">
+    <value>Vybrané cloudové aplikace</value>
+  </data>
+  <data name="groupwidget_featurednewApps" xml:space="preserve">
+    <value>Vybrané nové aplikace</value>
+  </data>
+  <data name="groupwidget_featuredpaidApps" xml:space="preserve">
+    <value>Vybrané placené aplikace</value>
+  </data>
+  <data name="groupwidget_featuredtrialApps" xml:space="preserve">
+    <value>Vybrané zkušební verze aplikací</value>
+  </data>
+  <data name="groupwidget_featuredupdatedApps" xml:space="preserve">
+    <value>Vybrané nové nebo aktualizované aplikace</value>
+  </data>
+  <data name="groupwidget_popularadskapps" xml:space="preserve">
+    <value>Nejoblíbenější aplikace společnosti Autodesk</value>
+  </data>
+  <data name="groupwidget_popularpaidapps" xml:space="preserve">
+    <value>Nejoblíbenější placené aplikace</value>
+  </data>
+</root>
